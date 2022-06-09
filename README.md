@@ -1,5 +1,5 @@
-## Wind Energy Project
-# An ETL project utilising wind energy data - By Carly Wieland
+# Wind Energy Project
+An ETL project utilising wind energy data - By Carly Wieland
 
 # Project Outline / Scenario:
 You are a data engineer for a New-Energies Company.
@@ -18,5 +18,5 @@ You have been asked to create the dataset, and provide a comprehensive report of
 
 Once the report has been complete, you will need to upload the report to Github and submit a link to Bootcampspot.
 
-## Wind Energy Project Final Report
+# Wind Energy Project Final Report
 tbc.
