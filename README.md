@@ -27,3 +27,5 @@ Source Of Data:
   Includes all storm data on all states and teritories.
 * http://nemweb.com.au/Reports/Current/HighImpactOutages/ (date range 30/8/2021 to 6/6/2022)
   Includes all High Impact Outage data on existing wind farms in all states and teritories.
+* https://anero.id/energy/wind-energy  (data accurate as of 13/6/2022)
+  Includes summary of Redistered Wind Generators in QLD, VIC, NSW, SA & TAS.
