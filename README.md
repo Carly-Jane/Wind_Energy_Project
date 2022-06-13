@@ -21,3 +21,8 @@ Once the report has been complete, you will need to upload the report to Github 
 
 # Wind Energy Project Final Report
 tbc.
+
+Source Of Data:
+* http://www.bom.gov.au/australia/stormarchive/ (date range 1/1/2010 to 1/1/2021)
+  Includes all storm data on all states and teritories.
+* 
