@@ -4,11 +4,11 @@ An ETL project utilising wind energy data - By Carly Wieland
 # Project Outline / Scenario:
 You are a data engineer for a New-Energies Company.
 The company is exploring posible future wind energy oportunities in VIC and NSW, Australia.
-This company wants to understand potential future outages, what could cause them, and what financial impact they would have. For this analysis, they will require data on a multitude of factors, including:
+This company wants to understand potential future outages, and some of the factors that may cause them. For this analysis, they will require data on a multitude of factors, including:
 
-* expected energy outputs, 
-* outage hisotoy in similar plants in the area,
-* types of weather event in the area
+* expected energy outputs 
+* outage hisotoy in similar plants in the area
+* weather events in the area
 
 You have been asked to create the dataset, and provide a comprehensive report of the ETL process, including:
 * The sources of data that you extracted from (a minimum of 2 is required, and you must include how the data was formatted (CSV, JSON, pgAdmin 4, etc)).
@@ -25,4 +25,5 @@ tbc.
 Source Of Data:
 * http://www.bom.gov.au/australia/stormarchive/ (date range 1/1/2010 to 1/1/2021)
   Includes all storm data on all states and teritories.
-* 
+* http://nemweb.com.au/Reports/Current/HighImpactOutages/ (date range 30/8/2021 to 6/6/2022)
+  Includes all High Impact Outage data on existing wind farms in all states and teritories.
