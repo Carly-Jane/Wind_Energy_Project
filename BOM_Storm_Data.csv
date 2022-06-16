@@ -1,0 +1,540 @@
+Event_ID,Database,ID,Date/Time,Nearest_town,State,Latitude,Longitude,Comments
+31801,Wind,5721,17/06/2010 0:00,BALLARAT,VIC,-37.5632,143.8554,Damaging winds smashed in studio doors and brought down power lines.
+31801,Wind,5722,17/06/2010 0:00,MOUNT PLEASANT,VIC,-37.5856,143.8596,17 jobs at Mt Pleasant all in a line - possible tornado or microburst.
+31801,Wind,5723,17/06/2010 0:05,MELTON SOUTH,VIC,-37.7043,144.5702,30 foot branch brought down in high winds with heavy rain and hail.
+31801,Wind,5724,17/06/2010 0:35,ST KILDA ROAD,VIC,-37.8354,144.9716,"Various AWS reports around Melbourne with line of TS/SH. 51kts PTWI at 10:14am, 54kts YLVT at 10:20am, 51kts YMML at 10:26am, 57kts FAWK at 10:34am, 61kts STK at 10:35am."
+31801,Wind,5720,17/06/2010 0:45,NORTHCOTE,VIC,-37.7772,144.997,Damage to a worksite at Northcote.
+31801,Wind,5719,17/06/2010 2:00,WANGARATTA,VIC,-36.3555,146.3257,"Extensive damage in the central and western side of Wangaratta. Trees uprooted, power lines down and structural damage to buildings. 47knot wind gust at Wangaratta AWS at 12:09pm."
+31801,Wind,5672,17/06/2010 2:30,BEECHWORTH,VIC,-36.3624,146.6879,Trees broken/uprooted at Beechworth.
+31801,Wind,5671,17/06/2010 3:00,TAWONGA SOUTH,VIC,-36.726,147.1478,Trees broken/uprooted at Tawonga Sth.
+31801,Rain,3419,17/06/2010 3:00,TAWONGA SOUTH,VIC,-36.726,147.1478,Gutters and downpipes overflowing at Tawonga Sth.
+31812,Hail,3087,1/01/2010 8:00,KINGLAKE WEST,VIC,-37.5151,145.2446,Report of 2cm hail covering the ground but time only mentioned as 'late'. Report wasn't received until the following day.
+31813,Wind,5698,16/01/2010 18:30,PORTLAND,VIC,-38.3461,141.6019,Roof damage to 1 to 2 houses - possible waterspout
+31814,Wind,5699,17/01/2010 13:15,EDITHVALE,VIC,-38.0386,145.1118,Minor roof damage to 4 houses and 1 fence down - possible waterspout.
+31814,Hail,3088,17/01/2010 15:30,FERNTREE GULLY,VIC,-37.8855,145.2942,Hail mostly 5mm but up to 20mm. Also flash flooding.
+31814,Rain,3454,17/01/2010 15:30,FERNTREE GULLY,VIC,-37.8855,145.2942,Hail mostly 5mm but up to 20mm. Also flash flooding.
+31815,Wind,5700,31/01/2010 3:10,MARYBOROUGH,VIC,-37.0479,143.7347,Branches snapped.
+31815,Rain,3455,31/01/2010 3:10,MARYBOROUGH,VIC,-37.0479,143.7347,
+31816,Rain,3456,4/02/2010 5:00,SANDY POINT,VIC,-38.8301,146.1244,Time in report not specific (afternoon).
+31816,Rain,3457,4/02/2010 5:00,FOSTER,VIC,-38.6558,146.2024,Time in report not specific (afternoon). Flash flooding with water up to car doors.
+31817,Wind,5701,9/02/2010 8:00,EAGLEHAWK,VIC,-36.7177,144.249,SES responded to about 20 jobs in total. About half for flooding and half for trees down.
+31817,Rain,3458,9/02/2010 8:00,EAGLEHAWK,VIC,-36.7177,144.249,SES responded to about 20 jobs in total. About half for flooding and half for trees down.
+31818,Rain,3459,10/02/2010 2:00,MELTON,VIC,-37.6838,144.5834,Heavy rain produced flooding on roads.
+31818,Wind,5702,10/02/2010 2:25,STRATH CREEK,VIC,-37.24,145.2176,Fierce winds from the south. Branches broken.
+31818,Rain,3460,10/02/2010 2:25,STRATH CREEK,VIC,-37.24,145.2176,Heavy rain lead to flash flooding.
+31818,Rain,3461,10/02/2010 4:50,MACEDON,VIC,-37.4248,144.5612,Torrential rain and water over road on Calder Freeway near Macedon turnoff.
+31818,Rain,3462,10/02/2010 5:00,WOODEND,VIC,-37.3591,144.5261,'Rivers' over Calder Freeway 4 inches deep causing cars to aquaplane into each other near the Woodend/Lancefield turnoff.
+31819,Wind,5703,10/02/2010 6:00,UPPER GUNDOWRING PUBLIC HALL,VIC,-36.4924,147.0668,"Severe winds from the east. Roof blown off shed, power pole down, at least 6 large trees uprooted."
+31819,Rain,3463,10/02/2010 6:00,UPPER GUNDOWRING PUBLIC HALL,VIC,-36.4924,147.0668,Reported 'wall of water' coming down creek.
+31820,Wind,5704,11/02/2010 5:00,MELTON SOUTH,VIC,-37.7043,144.5702,Time of storm not noted. Leg sized branches broken.
+31820,Rain,3464,11/02/2010 5:00,MELTON SOUTH,VIC,-37.7043,144.5702,
+31821,Wind,5706,26/02/2010 4:00,BOUNDARY BEND,VIC,-34.7182,143.1437,Reports of trees down.
+31821,Hail,3090,26/02/2010 4:00,BOUNDARY BEND,VIC,-34.7182,143.1437,
+31821,Rain,3465,26/02/2010 4:00,BOUNDARY BEND,VIC,-34.7182,143.1437,No mention in report of whether flash flooding occurred.
+31822,Hail,3091,27/02/2010 3:00,KNOWSLEY,VIC,-36.8268,144.5848,
+31822,Tornado,1094,27/02/2010 5:15,ROCHESTER,VIC,-36.3632,144.6995,Clyve Herbert and Jane O'Neill reportedly captured 2 tornadoes on video to the SE of Rochester.
+31823,Wind,5707,6/03/2010 2:30,EDDINGTON,VIC,-36.9176,143.8678,Damaging wind with trees down across roads.
+31823,Rain,3466,6/03/2010 2:30,EDDINGTON,VIC,-36.9176,143.8678,Flash flooding.
+31823,Hail,3139,6/03/2010 2:45,GREEN GULLY,VIC,-37.1052,144.0956,
+31823,Rain,3490,6/03/2010 3:30,GREEN GULLY,VIC,-36.6718,143.671,Gutter overflow.
+31824,Rain,3493,6/03/2010 2:00,ALTONA MEADOWS,VIC,-37.877,144.7806,Creeks overflowing.
+31824,Rain,3496,6/03/2010 2:00,NEWPORT,VIC,-37.8455,144.8838,Gutter and roads overflowing. Most of the recorded rainfall fell in an hour but guage was only checked daily.
+31824,Hail,3150,6/03/2010 2:30,CARLTON,VIC,-37.8036,144.9588,Plastic skylight broken.
+31824,Hail,3130,6/03/2010 3:05,BLACKBURN,VIC,-37.8203,145.1537,Iron roofs damaged. Vehicles dented.
+31824,Rain,3482,6/03/2010 3:05,BLACKBURN,VIC,-37.8203,145.1537,Gutter overflow.
+31824,Hail,3092,6/03/2010 3:15,MELTON,VIC,-37.6838,144.5834,
+31824,Hail,3153,6/03/2010 3:15,KYNETON,VIC,-37.2494,144.4519,Tiles cracked. Vehicles dented. Leaves stripped off trees.
+31824,Rain,3467,6/03/2010 3:15,MELTON,VIC,-37.6838,144.5834,"Flash flooding, force 8 winds and golf ball sized hail."
+31824,Rain,3500,6/03/2010 3:15,KYNETON,VIC,-37.2494,144.4519,Gutter overflowing. Roads awash. Structural damage. Some shops and local school hall flooded.
+31824,Wind,5745,6/03/2010 3:16,NORMAN AINSWORTH RESERVE,VIC,-37.7881,144.7991,Tree branches snapped.
+31824,Rain,3499,6/03/2010 3:16,NORMAN AINSWORTH RESERVE,VIC,-37.7881,144.7991,Gutter overflowing. Creeks overflowing. Roads awash. Structural damage.
+31824,Hail,3095,6/03/2010 3:25,DELAHEY,VIC,-37.721,144.7761,Large hail and heavy rain.
+31824,Rain,3469,6/03/2010 3:25,DELAHEY,VIC,-37.721,144.7761,Large hail and heavy rain.
+31824,Hail,3093,6/03/2010 3:30,KEILOR NORTH,VIC,-37.6815,144.783,Flash flooding and 2cm hail.
+31824,Hail,3138,6/03/2010 3:30,MELBOURNE,VIC,-37.8436,144.974,Windows broken. Skylight cracked.
+31824,Hail,3140,6/03/2010 3:30,MOUNT WAVERLEY,VIC,-37.8776,145.1273,Windows broken.
+31824,Hail,3142,6/03/2010 3:30,CARLTON,VIC,-37.8036,144.9588,
+31824,Rain,3468,6/03/2010 3:30,KEILOR NORTH,VIC,-37.6815,144.783,"Flash flooding, 2cm hail."
+31824,Rain,3489,6/03/2010 3:30,MELBOURNE,VIC,-37.8436,144.974,Gutter overflow. Creeks overflowing.
+31824,Rain,3492,6/03/2010 3:30,CARLTON,VIC,-37.8036,144.9588,Gutter overflow. Roads awash.
+31824,Hail,3145,6/03/2010 3:40,MALVERN EAST,VIC,-37.8792,145.0579,
+31824,Rain,3495,6/03/2010 3:40,MALVERN EAST,VIC,-37.8792,145.0579,Gutter overflow.
+31824,Hail,3155,6/03/2010 3:45,PASCOE VALE,VIC,-37.7285,144.9404,
+31824,Hail,3103,6/03/2010 3:50,NORTH MELBOURNE,VIC,-37.7932,144.9382,Large hail and flash flooding.
+31824,Hail,3149,6/03/2010 3:50,GLEN WAVERLEY,VIC,-37.8809,145.1636,Windows broken. Tiles cracked.
+31824,Rain,3470,6/03/2010 3:50,NORTH MELBOURNE,VIC,-37.7932,144.9382,Large hail and flash flooding.
+31824,Hail,3128,6/03/2010 3:52,NORTHCOTE,VIC,-37.7717,144.9937,
+31824,Hail,3101,6/03/2010 4:00,ASCOT VALE,VIC,-37.7749,144.9153,Large hail stripped leaves off trees.
+31824,Hail,3131,6/03/2010 4:00,MOUNT WAVERLEY,VIC,-37.8776,145.1273,Iron roofs damaged. Vehicles dented.
+31824,Hail,3132,6/03/2010 4:00,MOUNT WAVERLEY,VIC,-37.8776,145.1273,Vehicles dented.
+31824,Hail,3134,6/03/2010 4:00,RICHMOND,VIC,-37.8204,144.9958,
+31824,Hail,3135,6/03/2010 4:00,EAST MALVERN,VIC,-37.8784,145.0681,Vehicles dented. Leaves and flowers stripped from trees.
+31824,Hail,3146,6/03/2010 4:00,CARLTON,VIC,-37.8036,144.9588,Leaves stripped from trees.
+31824,Hail,3147,6/03/2010 4:00,GLEN IRIS,VIC,-37.8631,145.0651,Windows broken. Tiles cracked. Crops flattened. Door and window frames diveted and paint removed.
+31824,Hail,3152,6/03/2010 4:00,MOUNT WAVERLEY,VIC,-37.8776,145.1273,
+31824,Hail,3157,6/03/2010 4:00,KNOXFIELD,VIC,-37.892,145.2463,
+31824,Rain,3483,6/03/2010 4:00,MOUNT WAVERLEY,VIC,-37.8776,145.1273,Gutter overflow. Roads awash. Creeks overflowing. Volume of water estimated at 4 times drainage capacity.
+31824,Rain,3485,6/03/2010 4:00,RICHMOND,VIC,-37.8204,144.9958,Gutter overflow. Roads awash. Creeks overflowing.
+31824,Rain,3486,6/03/2010 4:00,EAST MALVERN,VIC,-37.8784,145.0681,Gutter overflow. Roads awash. Creeks overflowing.
+31824,Hail,3154,6/03/2010 4:04,MOUNT WAVERLEY,VIC,-37.8776,145.1273,Leaves stripped off trees.
+31824,Hail,3129,6/03/2010 4:05,OLINDA,VIC,-37.8577,145.3642,
+31824,Hail,3104,6/03/2010 4:10,HEATHMONT,VIC,-37.8316,145.2409,
+31824,Hail,3137,6/03/2010 4:10,MOUNT WAVERLEY,VIC,-37.8776,145.1273,Vehicles dented.
+31824,Hail,3156,6/03/2010 4:10,MOUNT WAVERLEY,VIC,-37.8776,145.1273,Windows broken.
+31824,Hail,3158,6/03/2010 4:10,GLEN WAVERLEY,VIC,-37.8809,145.1636,
+31824,Rain,3488,6/03/2010 4:10,MOUNT WAVERLEY,VIC,-37.8776,145.1273,Gutter overflow. Roads awash. Creeks overflowing.
+31824,Rain,3501,6/03/2010 4:10,GLEN WAVERLEY,VIC,-37.8809,145.1636,Gutter overflowing.
+31824,Hail,3102,6/03/2010 4:15,GLEN WAVERLEY,VIC,-37.8809,145.1636,Golf ball sized hail.
+31824,Hail,3136,6/03/2010 4:15,BORONIA,VIC,-37.8638,145.2856,Vehicles dented. Crops flattened.
+31824,Hail,3144,6/03/2010 4:15,BURWOOD,VIC,-37.852,145.1075,
+31824,Rain,3487,6/03/2010 4:15,BORONIA,VIC,-37.8638,145.2856,Gutter overflow. Roads awash. Creeks overflowing.
+31824,Hail,3141,6/03/2010 4:18,CHADSTONE CENTRE,VIC,-37.8876,145.0793,
+31824,Rain,3491,6/03/2010 4:18,CHADSTONE CENTRE,VIC,-37.8876,145.0793,Gutter overflow.
+31824,Hail,3105,6/03/2010 4:20,FERNTREE GULLY,VIC,-37.8855,145.2942,
+31824,Hail,3106,6/03/2010 4:30,FERNTREE GULLY,VIC,-37.8855,145.2942,"Bureau staff member reported plenty of 50mm hailstones, some that were joined together to make a 100mm stone that broke apart on impact."
+31824,Hail,3133,6/03/2010 4:30,FERNY CREEK,VIC,-37.8727,145.3446,Windows broken. Tiles cracked. Iron roofs damaged. Vehicles dented. Windscreens broken. Crops flattened.
+31824,Hail,3143,6/03/2010 4:30,HEATHMONT,VIC,-37.8316,145.2409,
+31824,Hail,3148,6/03/2010 4:30,GLEN WAVERLEY,VIC,-37.8809,145.1636,Windscreens broken. Vehicles dented. Large amounts of leaf litter.
+31824,Hail,3151,6/03/2010 4:30,THE PATCH,VIC,-37.8944,145.3864,Vehicles dented.
+31824,Rain,3484,6/03/2010 4:30,FERNY CREEK,VIC,-37.8727,145.3446,Gutter overflow. Roads awash. Creeks overflowing. Uncertain rainfall rate due to large quantity of hail.
+31824,Rain,3494,6/03/2010 4:30,HEATHMONT,VIC,-37.8316,145.2409,Gutter overflow.
+31824,Rain,3497,6/03/2010 4:30,GLEN WAVERLEY,VIC,-37.8809,145.1636,Gutter overflowing. Creeks overflowing.
+31824,Rain,3498,6/03/2010 4:30,CARLTON,VIC,-37.8036,144.9588,Gutter overflowing. Creeks overflowing. Roads awash.
+31824,Rain,3471,6/03/2010 6:13,LATROBE VALLEY AERODROME,VIC,-38.2122,146.4746,Heavy rain leading to 41.2mm in 23 minutes (25.6mm in 3 minutes). Flash flooding.
+31824,Wind,5717,6/03/2010 6:22,LATROBE VALLEY AERODROME,VIC,-38.2122,146.4746,51 knot gust at YLTV
+31825,Hail,3107,6/03/2010 4:55,RAVENSWOOD,VIC,-36.9274,144.162,Large hail and heavy rain.
+31825,Rain,3472,6/03/2010 8:00,STRATHBOGIE,VIC,-36.9313,145.8297,Coop obs reported 33mm of rain in under an hour.
+31826,Hail,3108,7/03/2010 5:30,NUMURKAH,VIC,-36.0921,145.4416,3 to 4cm diameter hail reported on synoptic discussion list.
+31826,Wind,5718,7/03/2010 5:38,SHEPPARTON,VIC,-36.3827,145.3968,Reports of 6 inches of water over roads and trees down due to wind. Shepparton AWS recorded a wind gust of 84 knots.
+31826,Rain,3473,7/03/2010 5:50,SHEPPARTON,VIC,-36.3827,145.3968,Reports of 6 inches of water over roads and trees down due to wind.
+31826,Rain,3475,7/03/2010 6:00,MURCHISON,VIC,-36.6243,145.1195,36mm in 30min at Murchison
+31826,Rain,3474,7/03/2010 6:04,MANGALORE,VIC,-36.9577,145.1664,31mm in 30 minutes at Mangalore AWS
+31826,Rain,3481,7/03/2010 7:30,WYNDHAM VALE,VIC,-37.8644,144.6013,Gutter overflow. Roads awash.
+31826,Rain,3476,7/03/2010 8:00,MILL PARK,VIC,-37.6728,145.061,Very heavy rain with flash flooding.
+31827,Hail,3109,11/04/2010 8:20,CAPE LIPTRAP,VIC,-38.9104,145.9193,Smattering of 1.5 to 2cm hail amongst larger amount of small hail.
+31828,Rain,3478,20/04/2010 5:00,MOUNT ELIZA,VIC,-38.1755,145.1071,Heavy rain with 110mm reported over the course of the afternoon with periodic TS activity. Daily rainfall to 9am on the 21st of 96mm at Mt Eliza and 125mm at Mt Eliza Bowls Club. 
+31828,Rain,3479,20/04/2010 5:00,MOUNT ELIZA,VIC,-38.1755,145.1071,Heavy rain with 110mm reported over the course of the afternoon with periodic TS activity. Daily rainfall to 9am on the 21st of 96mm at Mt Eliza and 125mm at Mt Eliza Bowls Club.
+31829,Wind,5743,13/07/2010 11:40,SILVER CREEK,VIC,-36.3787,146.7313,Tree branches snapped and trees uprooted at Silver Creek.
+31829,Wind,5744,13/07/2010 12:00,BEECHWORTH,VIC,-36.3624,146.6879,Tree at Beechworth Caravn Park fell onto a cabin injuring an elderly man.
+31830,Wind,5748,30/07/2010 10:00,BEAUFORT,VIC,-37.4313,143.3825,Rooves off houses and trees blown over (snapped at base). Power out and the Western Highway temporarily closed. 15 to 20 jobs. Damage consistent with a tornado though not observed.
+31831,Hail,3162,18/08/2010 11:00,WARRACKNABEAL,VIC,-36.2528,142.3947,Flash flooding and building damage due to large hail reported at Warracknabeal. 15 RFAs.
+31831,Hail,3163,18/08/2010 11:00,NETHERBY,VIC,-36.1131,141.6489,"Report of 28mm hail at Lake Jane, Netherby."
+31831,Rain,3503,18/08/2010 11:00,WARRACKNABEAL,VIC,-36.2528,142.3947,Flash flooding and building damage due to large hail reported at Warracknabeal. 15 RFAs
+31831,Rain,3504,18/08/2010 11:00,WEDDERBURN,VIC,-36.4199,143.6111,Flash flooding and building damage due to large hail reported at Warracknabeal. 15 RFAs
+31832,Wind,6051,18/08/2010 12:00,COHUNA,VIC,-35.8103,144.2165,
+31832,Wind,6052,18/08/2010 12:00,KERANG,VIC,-35.7323,143.9189,
+31832,Hail,3164,18/08/2010 12:00,COHUNA,VIC,-35.8111,144.211,Marble sized hail at Cohuna. Large hail Kerang. Trees down Kerang and Cohuna.
+31832,Hail,3335,18/08/2010 12:00,KERANG,VIC,-35.7323,143.9189,
+31834,Rain,3505,9/09/2010 6:45,ALLANSFORD,VIC,-38.3873,142.5893,15-20mm estimated in 10 mins. Drains overflowing and paddocks under water.
+31835,Tornado,1097,13/09/2010 5:48,MIRAM,VIC,-36.356,141.3433,Photos sent in by storm spotter of funnel cloud in the Miram/Diapur area. Does not appear to touch the ground in any of the photos.
+31836,Tornado,1116,10/08/2010 0:00,ECHUCA,VIC,-36.1298,144.7508,Photographs show tornado touching ground with air-born debris.
+31837,Rain,3715,12/10/2010 5:00,ANGLESEA,VIC,-38.4111,144.1837,Flash flooding: road washed away.
+31837,Rain,3714,12/10/2010 5:35,MALDON,VIC,-36.9917,144.0639,"Roads awash and impassable, drains overflowing."
+31838,Rain,3716,13/11/2010 8:15,BEECHWORTH POST OFFICE,VIC,-36.3611,146.6859,Estimate rainfall. Gutters and downpipes overflowing. Road awash. Drains overflowing.
+31839,Rain,3718,26/11/2010 3:40,ESSENDON,VIC,-37.7531,144.908,SES received 20 Requests For Assistance in Essendon for flash flooding.
+31839,Rain,3717,26/11/2010 4:20,BURWOOD EAST,VIC,-37.8536,145.1484,Measure intense rainfall. No reference to flash flooding.
+31840,Hail,3242,26/11/2010 5:00,DIAMOND CREEK,VIC,-37.6725,145.154,Large hail - Hail large enough to dent cars.
+31840,Rain,3721,26/11/2010 5:00,DIAMOND CREEK,VIC,-37.6725,145.154,
+31840,Rain,3719,26/11/2010 5:35,CRAIGIEBURN,VIC,-37.5959,144.9328,
+31841,Rain,3720,26/11/2010 8:05,KILMORE,VIC,-37.2988,144.95,Hume Highway near Kilmore - torrential rain and flash flooding.
+31842,Rain,3722,3/02/2011 7:20,EASTVILLE,VIC,-36.9015,143.9795,Gutters and downpipes overflowing. Drains overflowing. Paddocks under water.
+31842,Tornado,1117,3/02/2011 7:20,EASTVILLE,VIC,-36.9015,143.9795,Over 50 very large trees down on Bridgewater-Maldon Rd between Kellys Rd and Shelbourne Rd. Roads blocked to traffic. Power outage until 1415UTC 03/02/2011.
+31842,Rain,3723,3/02/2011 7:30,KNOWSLEY,VIC,-36.8277,144.5848,Heavy rain.
+31843,Rain,3724,3/02/2011 10:00,ARCADIA,VIC,-36.5639,145.3316,Rainfall above the 10 year Average Recurrence Interval.
+31843,Rain,3725,3/02/2011 10:00,VIOLET TOWN,VIC,-36.6168,145.7341,Rainfall above the 10 year Average Recurrence Interval.
+31844,Rain,3726,3/02/2011 10:00,MOUNT BULLER,VIC,-37.1485,146.4482,Rainfall above the 10 year Average Recurrence Interval.
+31845,Rain,3727,3/02/2011 10:00,KELFEERA,VIC,-36.608,146.0809,Rainfall above the 10 year Average Recurrence Interval.
+31846,Rain,3728,16/02/2011 5:40,GLEN FORBES,VIC,-38.4593,145.5444,Gutters and downpipes overflowing.
+31847,Rain,3731,4/02/2011 1:42,RUTHERGLEN,VIC,-36.0577,146.4615,Rainfall above 10 year Average Recurrence Interval.
+31847,Rain,3729,4/02/2011 1:45,RUTHERGLEN,VIC,-36.0577,146.4615,Flash flooding reported.
+31847,Rain,3730,4/02/2011 2:05,RUTHERGLEN,VIC,-36.0577,146.4615,Flash flooding reported.
+31848,Rain,3732,4/02/2011 4:06,MILDURA,VIC,-34.1942,142.1559,Rainfall above 10 year Average Recurrence Interval.
+31849,Tornado,1118,4/02/2011 5:00,MELBOURNE,VIC,-37.8436,144.974,Funnel cloud reported over Melbourne area. Preliminary radar data suggests left moving supercell over bay.
+31850,Wind,5936,4/02/2011 5:00,WYNDHAM VALE,VIC,-37.8644,144.6013,Structural damage to buildings. Power lines down. Roof damage reported.
+31850,Rain,3733,4/02/2011 5:00,WYNDHAM VALE,VIC,-37.8644,144.6013,Gutters and downpipes overflowing. Road awash and impassable. Creeks/storm drains overflowing. Paddocks under water.
+31850,Rain,3734,4/02/2011 6:10,MEREDITH,VIC,-37.8134,144.0461,Rainfall above the 10 year Average Recurrence Interval.
+31851,Rain,3736,4/02/2011 6:50,MENTONE,VIC,-37.9866,145.0676,Rainfall above 10 year Average Recurrence Interval.
+31851,Rain,3737,4/02/2011 6:50,DANDENONG,VIC,-37.9879,145.2122,Recorded at Melbourne Water's Dandenong Creek at Greens Road rainfall gauge. Rainfall above 10 year Average Recurrence Interval.
+31851,Rain,3738,4/02/2011 7:15,ASPENDALE,VIC,-38.0268,145.103,"Flash flooding reported. Water on ground 6"" deep."
+31851,Rain,3735,4/02/2011 7:45,LYNDHURST,VIC,-38.0629,145.2515,Rainfall above 10 year Average Recurrence Interval.
+31852,Wind,5937,4/02/2011 8:00,ST KILDA ROAD,VIC,-37.8354,144.9716,Wind speed and gust above Severe criteria.
+31853,Wind,5938,4/02/2011 8:46,LAVERTON,VIC,-37.8597,144.7713,Wind exceeds 10 year Average Recurrence Interval.
+31854,Wind,5939,4/02/2011 9:17,MORWELL,VIC,-38.2362,146.4093,Wind exceeds Severe criteria. Recorded at LaTrobe Valley AWS located at the LaTrobe Valley Regional Airport Morwell. 
+31855,Rain,3741,4/02/2011 8:00,DINGLEY,VIC,-37.9821,145.1269,Rainfall above 10 year Average Recurrence Interval.
+31855,Rain,3740,4/02/2011 8:10,BENTLEIGH,VIC,-37.9238,145.0351,Rainfall above 10 year Average Recurrence Interval.
+31855,Rain,3739,4/02/2011 8:30,CHADSTONE,VIC,-37.8842,145.0919,Rainfall exceeds 10 year Average Recurrence Interval.
+31856,Rain,3742,4/02/2011 11:00,YARRAMBAT,VIC,-37.6362,145.1334,Flash flooding reported. Approximate rate of rainfall: 1mm per minute.
+31857,Tornado,1119,6/10/2010 4:30,BEALIBA,VIC,-36.7924,143.5519,Tornado touchdown north of Bealiba.
+31858,Rain,3743,6/10/2010 6:45,RUTHERGLEN,VIC,-36.0577,146.4615,Very heavy rainfall reported. Gutters overflowing. Small hail also observed.
+31859,Hail,3243,7/11/2010 3:30,CARISBROOK,VIC,-37.0009,143.9158,Hail reported from storm with a very strong updraght 4km E of Carisbrook.
+31859,Wind,5940,7/11/2010 4:45,GLENLYON,VIC,-37.2979,144.2416,Tree branches down.
+31859,Hail,3244,7/11/2010 4:45,GLENLYON,VIC,-37.2979,144.2416,Large hail reported but no measurement provided.
+31859,Tornado,1120,7/11/2010 5:05,MACEDON,VIC,-37.4248,144.5612,Cell appears to have dropped a tornado SW of Macedon.
+31860,Rain,3744,7/11/2010 11:00,RUTHERGLEN,VIC,-36.0577,146.4615,Flash flooding reported. Gutters overflowing.
+31861,Wind,5941,12/11/2010 7:05,CARRUM DOWNS,VIC,-38.0973,145.1764,Small tree branches broken. 1cm hail also reported.
+31861,Rain,3745,12/11/2010 7:05,CARRUM DOWNS,VIC,-38.0973,145.1764,Very heavy rainfall - could not see back fence. 1cm hail also reported.
+31862,Rain,3746,12/11/2010 8:05,CARRUM DOWNS,VIC,-38.0973,145.1764,Very heavy rain. Flash flooding reported.
+31862,Wind,5942,12/11/2010 8:10,CARRUM DOWNS,VIC,-38.0973,145.1764,Very windy. Bark off trees. Branches down. 1 to 1.5cm hail also reported.
+31863,Rain,3747,24/11/2010 3:00,CASTERTON,VIC,-37.589,141.3987,Intense rainfall recorded North of Casterton.
+31864,Rain,3748,24/11/2010 6:30,COLAC,VIC,-38.3408,143.5825,Very heavy rainfall reported.
+31865,Rain,3749,25/11/2010 2:50,BEECHWORTH,VIC,-36.3624,146.6879,Gutters overflowing.
+31866,Rain,3753,1/12/2010 5:00,BENTLEIGH,VIC,-37.9238,145.0351,Heavy rainfall reported with apparent rainfall rate of 140mm/hr.
+31866,Rain,3751,1/12/2010 5:04,TULLAMARINE,VIC,-37.67,144.83,Rainfall above 10 year Average Recurrence Interval.
+31866,Rain,3750,1/12/2010 5:45,FERNY CREEK,VIC,-37.8798,145.3342,Water over roads.
+31866,Rain,3752,1/12/2010 5:45,MELTON,VIC,-37.6838,144.5788,Very heavy rain reported.
+31867,Rain,3754,2/12/2010 3:00,MILL PARK,VIC,-37.6728,145.061,
+31868,Rain,3755,2/12/2010 4:40,MYRTLEFORD,VIC,-36.559,146.724,Rainfall equal to or above 10 year Average Recurrence Interval.
+31869,Rain,3756,2/12/2010 4:00,AVOCA,VIC,-37.0897,143.473,Heavy rain with flash flooding reported.
+31870,Wind,5943,3/12/2010 5:48,AVALON AERODROME,VIC,-38.0346,144.4671,
+31870,Wind,5944,3/12/2010 5:56,POINT WILSON,VIC,-38.1,144.54,
+31870,Wind,5945,3/12/2010 6:23,,VIC,-38.31,144.8,
+31871,Rain,3757,3/12/2010 5:55,Mortlake,VIC,-38.07,142.77,
+31872,Rain,3758,3/12/2010 7:00,Sale,VIC,-38.12,147.13,
+31873,Rain,3760,3/12/2010 2:36,Coldstream,VIC,-37.72,145.41,Max wind gusts of 47 knots recorded at 0239UTC.
+31873,Rain,3759,3/12/2010 3:00,SEVILLE,VIC,-37.7796,145.4556,
+31874,Rain,3761,4/12/2010 5:30,STAWELL,VIC,-37.0598,142.7771,
+31875,Rain,3762,5/12/2010 1:30,GLENLYON,VIC,-37.2979,144.2416,Flash flooding reported. 0.5cm hail observed.
+31875,Hail,3245,5/12/2010 1:55,DAYLESFORD,VIC,-37.346,144.1427,Hail reported just north of Daylesford.
+31875,Rain,3763,5/12/2010 1:55,DAYLESFORD,VIC,-37.346,144.1427,Torrential rain reported.
+31876,Rain,3764,5/12/2010 5:15,DERGHOLM,VIC,-37.3722,141.2924,
+31877,Rain,3765,6/12/2010 4:00,WARRACKNABEAL,VIC,-36.2537,142.3914,Flash flooding reported.
+31878,Wind,5946,11/12/2010 12:30,GEELONG,VIC,-38.1612,144.3634,Severe wind reported. Tree blown through a house. Severe thunderstorm warning was current for the affected area.
+31879,Wind,5947,17/12/2010 7:00,PAKENHAM,VIC,-38.0773,145.4779,Strong wind reported. Gust front observed.
+31879,Hail,3246,17/12/2010 7:00,PAKENHAM,VIC,-38.0773,145.4779,Continuous hail mostly averaging 1cm diameter. Hail covered ground. Largest hail up to 2cm diameter.
+31879,Rain,3766,17/12/2010 7:00,PAKENHAM,VIC,-38.0773,145.4779,Heavy rainfall reported.
+31880,Wind,5948,17/12/2010 23:01,Yarrawonga,VIC,-36.03,146.03,
+31881,Wind,5949,19/12/2010 3:47,Swan Hill,VIC,-35.38,143.54,
+31882,Rain,3769,12/01/2011 9:20,TRENTHAM,VIC,-37.4211,144.3248,Rain rate of up to 140mm/hr during the afternoon. Water over road reported at Woodend.
+31883,Wind,5950,10/01/2011 6:00,COCKATOO,VIC,-37.9378,145.4944,Possible tornado based on damage pattern and eyewitness reports. Large established trees snapped in two. 
+31883,Rain,3767,10/01/2011 6:45,PAKENHAM,VIC,-38.0773,145.4779,Very heavy rainfall reported. Local flash flooding. Gutters overflowing.
+31884,Tornado,1121,4/02/2011 6:22,ROCHESTER,VIC,-36.3613,144.6985,"Funnel not reaching the ground, although spotter noted that it may have reached the ground at one point. Photographic evidence provided via email."
+31884,Rain,3770,4/02/2011 6:40,ROCHESTER,VIC,-36.3613,144.6985,Reported 20km west of Rochester.
+31885,Hail,3247,22/01/2011 6:00,MITTA MITTA,VIC,-36.7967,147.525,
+31886,Rain,3768,22/01/2011 8:00,MYRTLEFORD,VIC,-36.559,146.724,1.5cm hail also observed.
+31887,Rain,3777,13/03/2011 4:15,CROYDON,VIC,-37.7979,145.2792,
+31887,Rain,3776,13/03/2011 4:40,ELTHAM NORTH,VIC,-37.7003,145.1345,Some drains briefly overflowed and minor flooding of roads. Possible brief burst of small hail.%D
+31887,Rain,3771,13/03/2011 4:50,MILL PARK,VIC,-37.6728,145.061,
+31889,Rain,3772,25/11/2010 7:42,Seymour,VIC,-37.02,145.11,10.2mm in 4 minutes.
+31890,Hail,3248,9/09/2010 0:00,MIRRANATWA,VIC,-37.4091,142.4113,Leaves stripped off trees.
+31892,Wind,5951,12/11/2010 6:00,NEWHAVEN,VIC,-38.5145,145.3563,Reported a tornado but photograph provided shows a weak gust front.
+31893,Rain,3773,3/12/2010 0:00,MITTA MITTA,VIC,-36.7967,147.525,Max rain rate: 270mm/hr.%D Drains overflowing. Paddocks underwater. Mudslides reported.
+31894,Hail,3249,3/12/2010 4:00,SIMPSON,VIC,-38.5708,143.3289,Located 9km southwest of Simpson.
+31894,Rain,3774,3/12/2010 4:00,SIMPSON,VIC,-38.5708,143.3289,Located 9km southwest of Simpson. Hail also reported.
+31895,Rain,3775,4/02/2011 7:40,WYNDHAM VALE,VIC,-37.8644,144.6013,"VERY heavy rainfall, Roads unpassable, floodways flooded, lollipop creek flooded, Significant amount of cloud to ground lightning."
+31896,Wind,5952,13/11/2010 4:00,WANGANDARY,VIC,-36.3315,146.2401,Possible microburst embedded in first thunderstorm to hit Walker Road Wangandary (West of Wangaratta). %D Brought down several trees etc mainly on fences (around 10) several linbs
+31898,Tornado,1130,4/09/2010 7:00,Broadford,VIC,-37.216,145.1053,Spotter observed funnel cloud. Sent in photo of trees uprooted. Investigation of radar indicates tornado was likely due to low-level vorticity as no meso-cyclone evident on radar.
+31899,Hail,3748,28/09/2011 2:30,Lindsay Point,VIC,-34.1569,141.157,Golf ball size hail over Old Male Road between Lindsay Point and Marbin West. Damage to cars.
+31899,Hail,3749,28/09/2011 3:40,OUYEN,VIC,-35.069,142.3161,Right moving supercell component of Lindsay Point storm (Hail ID: 3748)
+31900,Rain,4118,28/09/2011 5:30,GISBORNE,VIC,-37.4902,144.5896,Flash flooding leading to flooding of shops.
+31900,Rain,4119,28/09/2011 5:40,MELBOURNE,VIC,-37.8436,144.974,Water over curbs in Melbourne CBD corner of Swanston and Bourke Streets.
+31901,Hail,3750,28/09/2011 2:30,SHEPPARTON,VIC,-36.3818,145.4024,Decent size hail near Shepparton.
+31902,Tornado,1190,1/10/2011 13:45,MANSFIELD,VIC,-37.0561,146.0867,
+31903,Rain,4120,6/10/2011 4:30,THORPDALE,VIC,-38.3249,146.2082,Exceeded 30 minute duration 10 year Average Recurrence Interval.
+31904,Rain,4121,6/10/2011 8:30,GISBORNE,VIC,-37.4902,144.5896,Flash flooding reported in Gisborne township with street drains blocked.%D Estimated (Rainfields) suggested 26mm in 1 hour which exceeds 1 Hour Duration 10 Year Average Recurrence Interval.
+31905,Hail,3751,22/10/2011 4:10,BALLARAT,VIC,-37.5615,143.853,2 to 3 cm hail reported just west of Ballarat.
+31905,Rain,4122,22/10/2011 4:10,BALLARAT,VIC,-37.5615,143.853,Lots of water over road reported.
+31905,Hail,3787,22/10/2012 6:30,MARONG,VIC,-36.7507,144.0457,photo of hail sent in
+31906,Wind,6538,22/10/2011 6:00,BENDIGO,VIC,-36.7625,144.2777,Strong winds reported. Some trees down.
+31906,Rain,4123,22/10/2011 6:00,BENDIGO,VIC,-36.7625,144.2777,Water over road reported.
+31907,Rain,4124,28/10/2011 5:45,BROOKLYN,VIC,-37.8141,144.8395,Rainfall exceeds 20 minute duration 10 year Average Recurrence Interval.
+31907,Wind,6539,28/10/2011 6:00,WARRANDYTE,VIC,-37.7394,145.2216,Powerlines down.
+31907,Wind,6540,28/10/2011 6:00,ROSEBUD,VIC,-38.3571,144.917,Powerlines down.
+31907,Wind,6541,28/10/2011 6:00,FRANKSTON,VIC,-38.1598,145.1338,Powerlines down.
+31907,Wind,6542,28/10/2011 6:00,SEAFORD,VIC,-38.1065,145.1306,Powerlines down.
+31907,Wind,6543,28/10/2011 6:00,WOODLEIGH,VIC,-38.4011,145.6452,Powerlines down.
+31907,Tornado,1191,28/10/2011 7:00,YARRA GLEN,VIC,-37.6604,145.3731,Funnel cloud / possible tornado near Yarra Glen. Flanking Line and Wall Cloud reported.
+31908,Wind,6544,9/11/2011 7:50,SOMERVILLE,VIC,-38.228,145.1755,
+31908,Rain,4125,9/11/2011 7:50,SOMERVILLE,VIC,-38.228,145.1755,
+31909,Rain,4126,9/11/2011 8:00,ELWOOD,VIC,-37.8851,144.985,Small hail also reported.
+31909,Rain,4127,9/11/2011 8:00,BENTLEIGH EAST,VIC,-37.9226,145.0659,Recorded on Oregon Scientific WMR918 weather station. Rainfall amount exceeds the 10 year Average Recurrence Interval.
+31909,Rain,4128,9/11/2011 8:00,BEAUMARIS,VIC,-37.9843,145.0415,Rainfall amount exceeds the 10 year Average Recurrence Interval.
+31909,Wind,6545,9/11/2011 8:15,PAKENHAM,VIC,-38.0773,145.4779,Leaf/tree litter over road.
+31909,Hail,3752,9/11/2011 8:15,PAKENHAM,VIC,-38.0773,145.4779,Leaf/tree litter on road. Intense hail reported.
+31909,Rain,4129,9/11/2011 8:15,PAKENHAM,VIC,-38.0773,145.4779,
+31910,Wind,6546,9/11/2011 3:00,PORT FAIRY,VIC,-38.3862,142.2309,Wind gust associated with discrete thunderstorm cell.
+31910,Rain,4130,9/11/2011 3:00,PORT FAIRY,VIC,-38.3862,142.2309,
+31910,Wind,6547,9/11/2011 4:22,CAPE OTWAY LIGHTHOUSE,VIC,-38.8583,143.5105,Wind gust associated with thunderstorm outflow.
+31911,Wind,6569,9/11/2011 1:00,BELLBRIDGE,VIC,-36.0995,147.0611,Uprooted trees. 2 houses damaged. Possible tornado!
+31911,Wind,6548,9/11/2011 1:50,WODONGA,VIC,-36.1265,146.8833,"12 properties damages, building damage, trees down. Path width 100m - possible tornado!"
+31912,Wind,6549,9/11/2011 7:30,NEWSTEAD,VIC,-37.1089,144.0628,Trees down - Road blocked. Straight line winds.
+31913,Rain,4131,25/11/2011 10:30,BEULAH WEST,VIC,-35.9349,142.2782,Site number 077082
+31915,Wind,6550,29/11/2011 6:15,LATROBE VALLEY AERODROME,VIC,-38.2122,146.4746,Storms moving through YLTV. AWS gusting 66kt (122km/hr)
+31916,Hail,3753,10/11/2011 6:20,KORUMBURRA,VIC,-38.4273,145.82, Large enough to smash perspex Estimates 3-5cm.
+31917,Wind,6551,17/12/2011 4:40,DERGHOLM,VIC,-37.3722,141.2924,Gusty ENE winds with heavy rainfall. %D Nearby Casterton AWS reported 360/20g34kts.
+31918,Rain,4133,10/12/2011 6:00,WANGARATTA,VIC,-36.3608,146.3112,Rain measured by spotter at Oxley Flats to SE of Wangaratta
+31919,Rain,4134,16/12/2011 6:45,TONGIO,VIC,-37.2125,147.7179,Small hail 1cm in diameter also reported
+31920,Rain,4135,25/11/2011 23:45,KEW,VIC,-37.8102,145.0279,
+31920,Rain,4136,25/11/2011 23:50,NORTHCOTE,VIC,-37.7746,145.0027,
+31921,Wind,6552,9/11/2011 10:00,BUXTON,VIC,-37.423,145.7082,Highly localised damage (~2km x 1lm). Tree branches snapped and trees uprooted. Shade cloth torn. Roofing tiles lifted. Structural damage. Power lines down. Spotter claims could have been a tornado but dark at time so can't be sure.
+31922,Rain,4140,18/12/2011 5:00,MOUNT WILLIAM,VIC,-37.2943,142.5998,
+31922,Rain,4137,18/12/2011 5:15,MOCKINYA,VIC,-36.963,142.1525,
+31922,Rain,4143,18/12/2011 5:40,GREAT WESTERN,VIC,-37.1984,142.8179,Western Highway at Great Western cut due to swollen creeks.
+31922,Rain,4138,18/12/2011 6:00,HALLS GAP,VIC,-37.1714,142.5612,
+31922,Rain,4144,18/12/2011 6:28,STAWELL,VIC,-37.0598,142.7771,
+31922,Rain,4148,18/12/2011 6:30,HALLS GAP,VIC,-37.1714,142.5612,Web feedback from man who lives 7km from Halls Gap. Total rainfall unknown but his rain gauge measures up to 150mm and was overflowing from this event.
+31922,Rain,4145,18/12/2011 6:40,STAWELL,VIC,-37.0598,142.7771,
+31922,Rain,4141,18/12/2011 7:30,HALLS GAP,VIC,-37.1714,142.5612,
+31922,Rain,4147,18/12/2011 11:00,TRENTHAM,VIC,-37.4211,144.3248,Heaviest rain Clive has ever experienced.
+31922,Rain,4150,18/12/2011 11:25,MOUNT MACEDON,VIC,-37.3992,144.588,
+31922,Rain,4151,18/12/2011 12:40,CRAIGIEBURN,VIC,-37.5959,144.9328,
+31923,Rain,4146,19/12/2011 0:00,TOOLANGI,VIC,-37.5641,145.4602,Recorded at Mount St Leonard Melbourne Water Rain Gauge. Possibly suspect! RADAR suggests isolated showers/storms in the vicinity but do not look particularly intense.
+31924,Rain,4152,24/12/2011 5:00,Dargo,VIC,-37.49,147.1658,Waterford Field Rain Gauge Station Number: 84118%D 61.2mm in 120 minutes.
+31925,Hail,3754,24/12/2011 6:30,MOUNT BAW BAW,VIC,-37.8398,146.2726,Marginally severe hail. Observed 20km W of Mount Baw Baw.
+31926,Hail,3755,24/12/2011 7:00,YARRA JUNCTION,VIC,-37.7834,145.6111,
+31926,Hail,3756,24/12/2011 8:00,NOOJEE,VIC,-37.8982,146.0048,Reported 1-2cm hail near Noojee.
+31927,Hail,3761,25/12/2011 4:30,DELAHEY,VIC,-37.721,144.7761,Extensive damage to cars. Flash flooding also reported.
+31927,Hail,3766,25/12/2011 4:30,HILLSIDE,VIC,-37.6888,144.7419,
+31927,Rain,4153,25/12/2011 4:30,DELAHEY,VIC,-37.721,144.7761,Golf ball size hail resulting in extensive damage to cars also reported.
+31927,Hail,3757,25/12/2011 4:40,ESSENDON AIRPORT,VIC,-37.7305,144.9007,
+31927,Hail,3767,25/12/2011 4:40,TAYLORS LAKES,VIC,-37.7087,144.7947,Filmed by Channel 7 News Crew.
+31927,Hail,3768,25/12/2011 4:45,COBURG,VIC,-37.7396,144.9809,Time of report unknown. Entered as event and most likely time of occurrence based upon RADAR data.
+31927,Hail,3769,25/12/2011 4:45,SAINT ALBANS,VIC,-37.7377,144.8029,Time of report unknown. Entered as event and most likely time of occurrence based upon RADAR data.
+31927,Hail,3770,25/12/2011 4:45,BRUNSWICK,VIC,-37.7685,144.9598,Time of report unknown. Entered as event and most likely time of occurrence based upon RADAR data.
+31928,Hail,3758,25/12/2011 4:49,WERRIBEE,VIC,-37.9017,144.6627,Large hail report in conjunction with rotating wall cloud.
+31928,Rain,4157,25/12/2011 4:53,LAVERTON R A A F BASE,VIC,-37.8627,144.7412,
+31929,Hail,3759,25/12/2011 6:05,FISKVILLE,VIC,-37.6572,144.2306,Tornado also reported.
+31929,Tornado,1192,25/12/2011 6:05,FISKVILLE,VIC,-37.6572,144.2306,Rotating wall cloud first observed ~0530UTC near Fiskville. Tornado reported near Twin Lakes Road. Doppler RADAR analysis indicated Strong Mesocyclone (21.5). Large hail also reported.
+31929,Hail,3760,25/12/2011 6:23,ROCKBANK,VIC,-37.7285,144.6534,Reported along Western Highway near Rockbank. Torrential rain also reported.
+31929,Tornado,1195,25/12/2011 6:40,MELBOURNE AIRPORT,VIC,-37.6664,144.8458,Possible tornado '1km away' from Melbourne Airport. Date unknown but event and time entered as most likely according to RADAR data.
+31929,Tornado,1193,25/12/2011 6:50,EPPING,VIC,-37.6471,145.0288,Reported near Epping Shopping Centre. Rotating wall cloud first observed ~0530UTC near Fiskville. Tornado reported near Twin Lakes Road Fiskville 0605. Doppler RADAR analysis indicated Strong Mesocyclone (21.5). Dust/debris also reported.
+31929,Hail,3762,25/12/2011 7:48,YARRA GLEN,VIC,-37.6604,145.3731,Can provide photos of supercell.
+31930,Rain,4156,25/12/2011 5:30,ELTHAM,VIC,-37.7258,145.1347,RADAR suggests highest intensity rainfall associated with storm with event number 31930 and hence listed under this event. Site may have been affected by another 2-3 storms.
+31930,Hail,3763,25/12/2011 6:10,DIAMOND CREEK,VIC,-37.6725,145.154,5cm disk shaped hail reported. Extensive defoliation and dented cars reported.
+31930,Hail,3764,25/12/2011 6:10,ELTHAM,VIC,-37.7258,145.1347,Very heavy and dense 2-3cm hail reported along with flash flooding.
+31930,Rain,4154,25/12/2011 6:10,ELTHAM,VIC,-37.7258,145.1347,Very heavy and dense 2-3cm hail also reported.
+31930,Hail,3765,25/12/2011 6:30,YARRA GLEN,VIC,-37.6604,145.3731,Crops flattened. 30-50mm holes punched in plastic roofing. Defoliation. Structural damage.
+31930,Rain,4155,25/12/2011 6:30,YARRA GLEN,VIC,-37.6604,145.3731,Gutters overflowing. Roads awash. Creeks overflowing. Defoliation.
+31931,Wind,6553,25/12/2011 9:51,Eildon,VIC,-37.21,145.84,
+31932,Tornado,1194,11/01/2012 0:12,BAYSWATER,VIC,-37.8446,145.2668,"Reports from media/weather forums of a mini-tornado"" in the Bayswater area. No evidence on RADAR. Most likely period during 2130-0030UTC with cells at:%D 2154"
+31932,Wind,6554,11/01/2012 0:31,St Kilda,VIC,-37.86,144.96,Associated with shower/thunderstorm.
+31933,Rain,4158,4/12/2010 11:00,MILDURA AIRPORT,VIC,-34.2316,142.0815,
+31934,Rain,4159,9/02/2012 9:30,Pennyroyal,VIC,-38.421,143.8348,"Pennyroyal Creek rain gauge (Station ID: 090061) received 223.0mm in the 24 hours to 9am 10 February 2012, the majority of which fell between 0930 and 1300UTC on 9 February 2012. Highest one day and February rainfall totals in 130 years of record!"
+31935,Rain,4160,9/02/2012 3:00,BUCHAN CAVES,VIC,-37.5028,148.1585,"Report of considerable damage from flash flooding"". ""The local creek broke its banks and went through the car park at the caves"
+31936,Rain,4161,9/02/2012 7:15,CORA LYNN,VIC,-38.1429,145.6066,
+31937,Rain,4162,28/01/2012 9:50,BROADFORD,VIC,-37.2057,145.0449,Water over road reported. Verified by RADAR.
+31938,Rain,4163,10/02/2012 2:30,Penshurst,VIC,-37.8824,142.4235,Slow moving thunderstorm.
+31939,Rain,4164,10/02/2012 4:35,BEAUFORT,VIC,-37.4332,143.3781,Flash flooding reported with a slow-moving thunderstorm.
+31940,Rain,4165,10/02/2012 6:30,CASTLEMAINE,VIC,-37.0639,144.2163,"Hail 30cm deep, defoliation, widespread water inundation reported. Large, slow moving cell on RADAR. Photos available via Bendigo Advertiser show large extent of hail covered ground and leaf litter. Also impacted Harcourt situated just north of Castlemaine."
+31941,Wind,6555,16/02/2012 6:57,Eildon,VIC,-37.21,145.84,Appears to be associated with a squall line.
+31942,Rain,4166,20/12/2012 0:00,ROCHESTER,VIC,-36.3613,144.6985,Daily rainfall total from Rochester Rainfall Gauge (Site #: 80049)
+31943,Rain,4167,19/02/2012 23:30,Archerton,VIC,-36.9064,146.2389,
+31944,Rain,4168,19/02/2012 23:30,STRATH CREEK,VIC,-37.24,145.2176,Daily rainfall total from Strath Creek rain gauge (Station #: 88158)
+31945,Wind,6556,26/02/2012 9:11,MELBOURNE AIRPORT,VIC,-37.6664,144.8458,
+31946,Rain,4169,26/02/2012 6:00,Rutherglen,VIC,-36.1047,146.5094,
+31947,Tornado,1196,27/02/2012 4:40,MILDURA,VIC,-34.1942,142.1559,Report of possible tornado in Mildura township to SES. Roof reportedly lifted from house.
+31947,Tornado,1197,27/02/2012 4:40,MILDURA AIRPORT,VIC,-34.2316,142.0815,"Photo of alleged tornado available in storm spotter log book. Damage reported at Mildura Airport: massive roller door blown clean off the wall amongst other things"" of a hanger/shed. ""Pets in crates were strewn all over the Air Express facility"
+31947,Wind,6557,27/02/2012 4:41,MILDURA AIRPORT,VIC,-34.2316,142.0815,
+31947,Rain,4170,27/02/2012 4:41,MILDURA AIRPORT,VIC,-34.2316,142.0815,
+31948,Rain,4171,27/02/2012 4:40,BALLARAT,VIC,-37.5615,143.853,Reports of flash flooding in Ballarat. Commencement time based on RADAR data. Train effect evident on RADAR.
+31948,Rain,4172,27/02/2012 6:00,BALLARAT,VIC,-37.5615,143.853,Heavy rain reported between 0600 and 0730UTC. 50mm in short period of time. Enough rainfall to collapse roof. Train effect evident on RADAR.
+31949,Rain,4173,27/02/2012 9:30,Benalla,VIC,-36.6181,145.9822,
+31950,Rain,4174,27/02/2012 8:00,MILL PARK,VIC,-37.6728,145.061,7 Day rainfall total to Sunday 4th March 2012 - 102.5mm.
+31951,Rain,4175,27/02/2012 8:30,CASTLEMAINE,VIC,-37.0639,144.2163,Severe rainfall event reported by Castlemaine local. Rainfall totals recorded with pluviograph. Exact time unknown. Commencement time estimated from RADAR data. Train effect evident on RADAR.
+31951,Rain,4176,27/02/2012 8:30,CHEWTON,VIC,-37.082,144.2584,Commencement time estimated from RADAR data. Train effect evident on RADAR.
+31952,Wind,6558,14/03/2012 9:57,POINT WILSON,VIC,-38.0958,144.5361,
+31953,Wind,6559,14/03/2012 6:20,ROCHESTER,VIC,-36.3613,144.6985,"Large number of calls to SES due to wind; tree branches blown down, minimal homes damaged with few roof tiles blown off etc. Winds got very strong for a few minutes"". Suspected microburst."""
+31954,Rain,4177,14/03/2012 4:30,CALLAGHAN CREEK,VIC,-36.4459,147.4274,Commencement time estimated from RADAR data.
+31955,Tornado,1198,6/04/2012 7:35,CORIO,VIC,-38.0755,144.3574,"Article in Geelong Advertiser 7 April 2012 (attached to Storm Spotter Logbook). %D ""Mr Moroney watched in disbelief as a mini-tornado lifted and dumped 20m of fence on his Corio home... ripped from the ground and tossed onto his shed roof and a nearby car."""
+31956,Wind,6560,22/04/2012 6:44,St Kilda,VIC,-37.8642,144.9639,
+31956,Hail,3771,22/04/2012 7:13,BERWICK,VIC,-38.0422,145.3476,Average size 1.4cm. Storm moving from NW to SE.
+31957,Wind,6561,22/04/2012 7:17,Mount Buller,VIC,-37.145,146.4394,
+31958,Hail,3772,22/04/2012 8:15,TARRAWINGEE,VIC,-36.3948,146.4469,Rugged hail reported.
+31958,Rain,4178,22/04/2012 8:15,TARRAWINGEE,VIC,-36.3948,146.4469,
+31959,Rain,4179,22/02/2012 5:30,Aurthurs Seat,VIC,-38.3586,144.9444,
+31960,Rain,4180,24/04/2012 1:00,CRANBOURNE,VIC,-38.1061,145.2777,Local flash flooding reported between Narre Warren and Cranbourne. Cranbourne Police Station flooded. Verified with RADAR and lightning data.
+31961,Tornado,1199,22/04/2012 6:34,CANIAMBO,VIC,-36.4703,145.6305,"Photos available via email chain with Ted Williams, Dean Sgarbossa, Tony Bannister, Steven McGibbony. RADAR data showed weak low-level mesocyclone with possible RFD/FFDs."
+31962,Hail,3782,11/11/2011 6:30,BALLARAT,VIC,-37.5615,143.853,Commencement time estimated from RADAR data.
+31963,Wind,6570,9/11/2011 7:30,WOODEND,VIC,-37.3583,144.5272,50-60 trees down via Kevin Parkyn at State Control Centre. Commencement time approximated from RADAR data.
+31964,Rain,4239,9/11/2011 8:30,MILL PARK,VIC,-37.6728,145.061,Timing confirmed by RADAR data.
+31965,Rain,4240,17/12/2011 19:00,MILDURA AIRPORT,VIC,-34.2316,142.0815,
+31966,Tornado,1202,24/05/2012 5:30,BLACK RANGE,VIC,-37.1503,142.7567,Tornado was reported to last for about one minute and to move from the northeast before turning around and coming from the south. Considerable damage was reported including a wooden verandah lifted in its entirety and moved approximately 200m from its original location. Eye-witness reports and photos available on shared drive at S:\Victoria\Shared\SevereWx\Events
+31967,Tornado,1203,16/06/2012 7:00,STRATHKELLAR,VIC,-37.7043,142.1095,Photos show funnel cloud reaching ground and tree shredded of all upper branches.
+31968,Wind,6796,5/08/2012 15:10,TIDAL RIVER CAMP,VIC,-39.0314,146.3184,
+31970,Wind,6797,23/08/2012 13:33,MOUNT GELLIBRAND,VIC,-38.2342,143.7912,
+31971,Wind,6798,23/08/2012 3:58,AIREYS INLET,VIC,-38.464,144.0991,50kt wind gusts recorded at Airey's Inlet with severe thunderstorms eventuating. %D
+31972,Wind,6799,23/08/2012 4:30,AVALON,VIC,-38.0861,144.4288,Severe thunderstorms with maximum wind gusts of 48kts measured at Avalon. %D
+31973,Hail,3909,23/08/2012 6:15,BULLEEN,VIC,-37.777,145.0901,"Intense hail, around 8mm in diameter was %D reported at Bulleen along with violent wind squalls and local flash flooding.%D"
+31974,Wind,6801,29/11/2012 9:30,HOPETOUN AERODROME,VIC,-35.715,142.3587,Wind gusts of 41kts in Hopetoun. %D
+31974,Wind,6800,29/11/2012 10:00,WALPEUP,VIC,-35.1386,142.0198,
+31975,Wind,6802,29/11/2012 11:00,SWAN HILL,VIC,-35.342,143.5616,"Severe winds reported by the AWS obs at Swan Hill. Gusts of 47kts, and 39kt winds at 9:56pm."
+31977,Hail,3911,30/11/2012 11:00,BALLARAT,VIC,-37.5604,143.8575,WDSS hail reported to be 12cm. Metro warnings issued at approximately 9pm. %D Hail damage at Palliative Care Hospital.
+31977,Wind,6803,30/11/2012 11:45,BALLARAT,VIC,-37.5604,143.8575,"Ballarat Damage: 200 calls for assistance.%D Trees through houses/roofs/power lines.%D 6000 without power.%D Wind Damage at Elmhurst, possible tornado.%D Hail damage at hospiatl. %D Gusts to 47kts at 1145Z"
+31978,Wind,6804,13/12/2012 4:50,LAVERTON,VIC,-37.8651,144.7718,
+31984,Rain,4856,14/02/2013 16:00,BRIGHT,VIC,-36.727,146.9619,
+31985,Rain,4857,14/02/2013 15:00,Gisborne,VIC,-37.4681,144.5643,
+31986,Rain,4858,14/02/2013 6:00,BALLARAT AIRFIELD,VIC,-37.5106,143.7923,
+31987,Wind,6868,21/03/2013 20:00,HAMILTON AERODROME,VIC,-37.6452,142.0655,Damanging winds (trees down)
+31988,Rain,4859,26/02/2013 14:00,BRIGHT,VIC,-36.727,146.9619,
+31989,Rain,4860,27/02/2013 16:00,WALLAN,VIC,-37.4146,144.9773,
+31990,Wind,6869,27/02/2013 18:45,RUSHWORTH,VIC,-36.5887,145.0125,Reports strong winds (hse damage) Rushworth IGA and retirement home roof off.
+31990,Rain,4861,27/02/2013 19:00,SHEPPARTON,VIC,-36.3818,145.4024,Reported Shepparton and Heathcote flooding and building damage (probably hail)
+31991,Tornado,1236,21/03/2013 19:40,Rutherglen,VIC,-36.0577,146.4615,Extensive damage 
+31992,Tornado,1237,21/03/2013 0:00,SWANPOOL,VIC,-36.7489,145.9997,Damage to vegetation cosistent with tornado: ~100m wide path of trees damaged/defoliated. (Fully established Red Gums destroyed). Trees >100m not damaged.
+31993,Tornado,1238,21/03/2013 0:00,MANSFIELD,VIC,-37.0561,146.0867,2 tornados (possibly) causing damage with bowing line segement and roof damage
+31994,Tornado,1239,21/03/2013 0:00,BENALLA AERODROME,VIC,-36.5524,145.9988,photograph taken of tornado
+31995,Tornado,1240,21/03/2013 4:00,KERANG,VIC,-35.7323,143.9189,Photo of tornado. No reported Damage.
+31996,Tornado,1259,7/07/2013 8:00,Knowsley,VIC,-36.81,144.66,"Report from CFA of heavy tree damage in a narrow path approximately 400m long. Damage was reportedly in all directions. Review of radar data shows long-lasting, left-moving cell in the vicinity of the reported damage."
+31997,Tornado,1260,15/07/2013 7:15,YARRAWONGA,VIC,-32.3567,149.6679,Photo sent in from storm spotter of funnel cloud not reaching ground.
+31997,Tornado,1261,15/07/2013 7:15,YARRAWONGA,VIC,-32.3567,149.6679,Photo sent in from storm spotter of funnel cloud not reaching ground.
+31998,Hail,3993,21/09/2013 12:30,HAVEN PUBLIC HALL,VIC,-36.7426,142.194,
+31999,Wind,7099,19/09/2013 13:00,MILDURA,VIC,-34.1942,142.1559,"SES reported around 10 jobs including tiles off rooves, trees blown over and windows blown out. Nearest AWS (Mildura) shows a gust of 31 knots but damage indicates stronger."
+32000,Hail,3994,22/10/2013 8:00,GOORAMADDA,VIC,-36.0022,146.5429,
+32000,Wind,7100,22/10/2013 8:10,BARNAWARTHA NORTH,VIC,-36.0722,146.7346,Reports of possible tornado at Barnawartha North. Several houses damaged and trees down. Strong mesocyclone evident in Doppler associated with line of intense reflectivity.
+32001,Rain,4971,22/10/2013 7:20,HAVEN PUBLIC HALL,VIC,-36.7426,142.194,Storm spotter reported gutters overflowing and water in paddocks as a result of 24mm of rain in 30 minutes.
+32001,Wind,7101,22/10/2013 8:40,ARARAT,VIC,-37.2856,142.9222,Reports of 'mini-tornado' in the media. Photos show a brick wall that was blown over as well as sheet metal and other debris (including solid looking metal structures) wrapped around a tree. No confirmation from obs of a funnel cloud though.
+32002,Tornado,1262,23/11/2013 2:00,BATESFORD,VIC,-38.0833,144.2666,Photo of funnel cloud not reaching the ground.
+32003,Tornado,1263,24/10/2013 1:00,MULGRAVE,VIC,-37.9215,145.166,Photo of funnel cloud not reaching the ground.
+32004,Tornado,1264,5/12/2013 3:25,BANGHOLME,VIC,-38.0503,145.1651,Photo of funnel cloud not reaching the ground.
+32005,Wind,7102,19/12/2013 9:22,SHEPPARTON AERODROME,VIC,-36.4312,145.3891,
+32006,Wind,7103,22/12/2013 8:01,FAWKNER BEACON,VIC,-37.9106,144.9268,
+32007,Wind,7309,14/01/2014 10:00,HORSHAM,VIC,-36.7146,142.1981,
+32007,Wind,7310,14/01/2014 10:00,LONGERENONG,VIC,-36.6947,142.3997,
+32007,Wind,7311,14/01/2014 11:50,LAVERTON,VIC,-37.8597,144.7713,
+32008,Rain,5154,15/01/2014 7:05,HORSHAM,VIC,-36.7146,142.1981,"Heavy rain was described as being deafening on tin roof, with strong winds and lightning and thunder also reported, no further details or measurements given."
+32008,Wind,7318,16/01/2014 7:17,MILL PARK,VIC,-37.6728,145.061,
+32008,Rain,5155,16/01/2014 9:40,MILL PARK,VIC,-37.6728,145.061,Gusts in excess of 40 knots also reported
+32010,Wind,7319,19/02/2014 6:42,SWAN HILL,VIC,-35.342,143.5616,
+32010,Rain,5156,19/02/2014 7:05,GEELONG,VIC,-38.1502,144.3558,
+32011,Wind,7320,15/03/2014 4:37,HOPETOUN,VIC,-35.7303,142.3623,
+32011,Wind,7321,15/03/2014 5:31,AIREYS INLET,VIC,-38.464,144.0991,
+32011,Wind,7322,15/03/2014 6:33,AVALON,VIC,-38.0861,144.4288,
+32011,Rain,5158,15/03/2014 8:05,WYNDHAM VALE,VIC,-37.8644,144.6013,
+32011,Rain,5157,15/03/2014 12:30,MYRTLEFORD,VIC,-36.5635,146.7262,Roads awash
+32012,Rain,5159,21/03/2014 3:00,SILVER CREEK,VIC,-36.3787,146.7313,
+32012,Rain,5161,21/03/2014 5:50,BRIGHT,VIC,-36.7306,146.9608,
+32012,Rain,5160,21/03/2014 6:15,MOUNT BAW BAW,VIC,-37.8398,146.2726,
+32012,Rain,5162,21/03/2014 7:30,BEECHWORTH,VIC,-36.3642,146.6879,
+32014,Rain,5163,27/03/2014 7:00,GEELONG,VIC,-38.1502,144.3558,
+32015,Wind,7323,27/05/2014 5:30,ECHUCA,VIC,-36.1298,144.7508,"15 Jobs with SES including roof tiles, trees down and dislodged, and trees over roads and powerlines."
+32016,Hail,4049,26/02/2014 4:25,MITTA MITTA,VIC,-36.7967,147.525,
+32018,Rain,5165,9/09/2014 3:30,GLEN FORBES,VIC,-38.4593,145.5444,
+32018,Rain,5164,9/09/2014 4:25,ESSENDON,VIC,-37.7531,144.908,
+32018,Hail,4050,9/09/2014 5:30,RINGWOOD MAGISTRATES COURT,VIC,-37.8142,145.2255,no significant wind
+32018,Hail,4051,9/09/2014 5:30,BAYSWATER SECONDARY COLLEGE,VIC,-37.8396,145.2612,
+32019,Wind,7324,30/09/2014 4:30,DERRIMUT,VIC,-37.8124,144.7495,
+32020,Wind,7326,12/10/2014 6:47,MOUNT HOTHAM,VIC,-36.9766,147.1315,
+32021,Wind,7327,13/10/2014 7:30,TAWONGA,VIC,-36.6881,147.1444,
+32021,Hail,4052,13/10/2014 7:30,TAWONGA,VIC,-36.6881,147.1444,
+32022,Wind,7328,14/10/2014 3:00,TAWONGA,VIC,-36.6881,147.1444,Ongoing wind throughout the day.
+32023,Wind,7329,22/10/2014 5:18,HORSHAM,VIC,-36.7146,142.1981,
+32024,Tornado,1276,22/11/2014 0:00,GOL GOL BEND,VIC,-34.1828,142.2154,"Destructive storms, localised hail and intense rain reported, though not with any specific detail. AWS no report of severity."
+32025,Wind,7330,24/11/2014 3:08,SWAN HILL HOSPITAL,VIC,-35.3422,143.555,
+32025,Wind,7331,24/11/2014 4:25,SHEPPARTON HIGH SCHOOL,VIC,-36.3742,145.4141,
+32025,Wind,7332,24/11/2014 5:36,MOUNT BULLER,VIC,-37.1466,146.4246,
+32026,Hail,4053,1/12/2014 0:00,POREPUNKAH POST OFFICE,VIC,-36.7019,146.9109,
+32026,Hail,4054,1/12/2014 0:00,WODONGA,VIC,-36.1211,146.8844,
+32026,Rain,5166,1/12/2014 0:00,MOUNT DELEGATE,VIC,-37.1139,148.8965,
+32026,Hail,4057,1/12/2014 3:00,BOBINAWARRAH,VIC,-36.5222,146.4974,
+32027,Hail,4055,3/12/2014 0:00,YELTA,VIC,-34.1288,142.0042,
+32027,Rain,5167,3/12/2014 6:00,KANIVA,VIC,-36.3779,141.2386,
+32028,Rain,5168,5/12/2014 7:00,MANSFIELD,VIC,-37.0579,146.0878,
+32028,Rain,5186,5/12/2014 8:40,CORAL BANK,VIC,-36.6206,147.085,"gutters and downpipes overflowing, roads awash."
+32029,Hail,4056,6/12/2014 2:30,WALDARA,VIC,-36.3227,146.2814,
+32029,Rain,5187,6/12/2014 2:30,WALDARA,VIC,-36.3227,146.2814,
+32029,Rain,5169,6/12/2014 4:00,WANGARATTA,VIC,-36.3565,146.3154,
+32029,Rain,5170,6/12/2014 4:00,MOORNGAG,VIC,-36.7566,146.0522,
+32029,Rain,5171,6/12/2014 4:00,TATONG,VIC,-36.7242,146.247,
+32030,Rain,5172,7/12/2014 4:00,STRATFORD,VIC,-37.9682,147.0797,
+32031,Wind,7333,29/12/2014 3:45,DOREEN,VIC,-37.62,145.136,Storm Gust
+32032,Wind,7334,3/01/2015 0:00,POINT LONSDALE,VIC,-38.2926,144.6102,
+32032,Rain,5173,3/01/2015 6:00,PORT CAMPBELL,VIC,-38.6208,142.9953,
+32032,Wind,7335,3/01/2015 7:00,POINT LONSDALE,VIC,-38.2926,144.6102,
+32033,Rain,5174,7/01/2015 6:20,BLACKBURN,VIC,-37.8203,145.1537,
+32033,Wind,7336,7/01/2015 10:08,TYABB,VIC,-38.2615,145.1849,
+32033,Rain,5175,7/01/2015 10:08,TYABB,VIC,-38.2615,145.1849,
+32033,Rain,5176,7/01/2015 10:08,CERES,VIC,-38.1735,144.2705,
+32034,Rain,5177,9/01/2015 8:00,STRATHDALE,VIC,-36.7616,144.3169,
+32034,Rain,5178,9/01/2015 8:00,MAIDEN GULLY,VIC,-36.7413,144.2157,
+32034,Rain,5179,9/01/2015 8:00,BRIDGEWATER,VIC,-36.6032,143.9436,
+32034,Rain,5180,9/01/2015 8:00,Bendigo,VIC,-36.6032,143.9436,
+32034,Rain,5181,9/01/2015 8:00,NORTH BENDIGO,VIC,-36.7455,144.2828,
+32034,Rain,5182,9/01/2015 8:00,LOCKWOOD SOUTH,VIC,-36.9227,144.1221,
+32035,Rain,5183,21/01/2015 7:00,MOUNT BULLER,VIC,-37.1466,146.4246,
+32036,Wind,7337,7/02/2015 5:35,HAMILTON,VIC,-37.7457,142.0204,
+32037,Rain,5184,17/02/2015 4:30,MCKILLOP BRIDGE,VIC,-37.0857,148.412,
+32038,Wind,7338,23/02/2014 2:35,WILSONS PROMONTORY,VIC,-39.0498,146.3875,
+32038,Tornado,1277,23/02/2015 4:00,SHEPPARTON,VIC,-36.3846,145.4045,several eye witnesses. damage reported in area. evidence of strong meso-scale on radar.
+32038,Rain,5185,23/02/2015 7:00,MYRTLEFORD,VIC,-36.5599,146.7218,
+32039,Wind,7339,28/02/2015 7:30,HAMILTON,VIC,-37.7457,142.0204,
+32039,Tornado,1278,28/02/2015 8:00,DAYLESFORD,VIC,-37.3415,144.144,Hepburn Courier reports of mini tornado 150m wide by couple of km.
+32039,Wind,7340,28/02/2015 8:50,MELTON,VIC,-37.7043,144.5713,
+32041,Wind,7350,6/09/2015 6:45,MERBEIN,VIC,-34.168,142.06,"Media report of 'mini-tornado' at Merbein just NW of Mildura. http://www.weeklytimesnow.com.au/sport/country-football/sunraysia-final-halted-after-winds-bring-down-branches-onto-grounds/story-fnmfj55m-1227517317067 No lightning recorded in the area. RADAR shows showers on a change that moved through the area at the time, but none look particularly intense. Most likely to be a microburst associated with a shower on the change. Branches reportedly broken off trees with two people injured and one car damaged. Mildura Airport max gust 54km/hr, Hopetoun 74km/hr."
+32042,Rain,5199,13/02/2015 6:30,Ballarat,VIC,-37.5632,143.8554,33.8mm fell in less than an hour. 27.2mm of this fell in less than half an hour between 1730 and 1800 local time. Reports of 'water through roofs'. 
+32042,Tornado,1281,13/02/2015 6:35,CRESWICK,VIC,-37.4264,143.8863,Photos show rotating cloud reaching ground.
+32043,Hail,4065,10/10/2015 7:00,BERWICK,VIC,-38.0422,145.3476,Report on social media including a photograph of hail in someone's hand. Estimate to be the size of a $2 coin.
+32044,Rain,5200,11/10/2015 6:30,Balwyn,VIC,-37.8131,145.0818,Heavy rain caused a roof to collapse at Balwyn Woolworths. Media article from theage online - http://www.theage.com.au/victoria/balwyn-woolworths-roof-collapses-during-severe-storms-20151011-gk6h2k.html
+32045,Rain,5201,10/10/2015 8:15,YARRA GLEN,VIC,-37.6631,145.3708,Report of rainfall of 21mm in 25 minutes. According to the IFD webpage this corresponds to between a 1 in 10 year and 1 in 20 year event.
+32046,Wind,7358,25/10/2015 6:30,GEELONG,VIC,-38.1502,144.3558,SES advised of 4 reports of building damage (gates down/tiles off) in the Geelong area shortly before 5:30pm local. RADAR indicates thunderstorm outflow moved through area at that time with gust to 38kt recorded at Geelong Racecourse.
+32047,Wind,7359,25/10/2015 7:44,Fawkner Beacon,VIC,-37.9499,144.9258,Wind gust of 51kts recorded at Fawkner Beacon at 18:44EDT as shower/storm moved over.
+32048,Hail,4071,31/10/2015 5:30,DINGEE,VIC,-36.3712,144.2301,Report of 3 to 4cm hail at a farm near Dingee.
+32048,Tornado,1286,31/10/2015 6:20,Echuca,VIC,-36.1401,144.5581,Jane O'Neill reported (and supplied photo) of a funnel cloud associated with storm just west of Echuca.
+32048,Hail,4072,31/10/2015 6:50,Echuca,VIC,-36.1023,144.6865,Report of golf ball sized hail along the border area just NW of Echuca.
+32049,Wind,7360,1/11/2015 1:20,WEE WEE RUP,VIC,-35.8682,144.302,Reports of trees down and building damage at Wee Wee Rup. Time estimated based on RADAR imagery of when squall line moved through.
+32049,Tornado,1287,1/11/2015 3:30,NATHALIA,VIC,-36.0527,145.2059,Social media (YouTube) shows multiple vortices at Nathalia. Corresponds to the inflexion point of the squall line on RADAR. https://youtu.be/Cpppj8hgov4
+32049,Wind,7361,1/11/2015 3:50,STRATHMERTON,VIC,-35.9276,145.4803,"SES advised of around 10 homes with with roof damage in Strathmerton, many from the one street. Media showed footage of damaged houses. Gust to 89km/h recorded at Shepparton and 87km/h at Tatura."
+32049,Rain,5203,1/11/2015 3:50,NUMURKAH,VIC,-36.0943,145.436,Social media reports of flooding at Numurkah and Corowa.
+32050,Rain,5204,4/11/2015 7:00,MURRAYVILLE,VIC,-35.2663,141.1792,"82mm in the 24 hours to 9am, associated with passage of storm with most of it falling in 45 minutes."
+32051,Rain,5205,5/11/2015 2:15,BULLA,VIC,-37.6377,144.8036,"Flash flooding reported. 24.6mm of rain in 60 minutes between 1:15 and 2:15pm EDT, 16.2mm between 1:45 and 2:00pm"
+32051,Rain,5207,5/11/2015 2:30,KEILOR,VIC,-37.6986,144.8237,Rainfall of 30.8mm between 1:30 and 2:30pm EDT. 14.4mm in the 15 minutes beetween 2:00pm and 2:15pm.
+32051,Tornado,1288,5/11/2015 2:30,CRAIGIEBURN,VIC,-37.6023,144.9428,"Multiple reports between 1:30 and 2:00pm EDT of funnel cloud. A storm spotter reported seeing two separate funnels touch down. Reports from Campbellfield, Craigieburn and Melbourne Airport."
+32051,Rain,5206,5/11/2015 3:15,FLEMINGTON,VIC,-37.7724,144.929,Photos of flash flood on Racecourse Road.
+32052,Rain,5208,12/11/2015 4:00,GLENCAIRN,VIC,-37.514,146.5474,Rainguage at Glencairn recorded 41mm in 60 minutes to 1600 EDT which is an AEP of just under 2%. 35.8mm fell in the 30 minutes to 1540 EDT which is between a 1% and 2% AEP.
+32053,Wind,7362,30/11/2015 4:55,NHILL,VIC,-36.334,141.6496,Nhill Aerodrome gust of 65knots (120km/h) recorded at 3:55pm EDT.
+32054,Wind,7366,30/11/2015 8:08,LAVERTON,VIC,-37.8597,144.7713,Laverton gust recorded of 49knots at 1908EDT
+32054,Wind,7365,30/11/2015 8:14,ESSENDON AIRPORT,VIC,-37.7305,144.9007,Essendon Airport gust recorded of 53knots at 1914EDT
+32054,Wind,7363,30/11/2015 8:15,SAINT KILDA,VIC,-37.8653,144.981,St Kilda Harbour gust recorded of 63knots at 1915EDT
+32054,Wind,7364,30/11/2015 8:18,FAWKNER BEACON,VIC,-37.9106,144.9268,Fawkner Beacon gust recorded of 62knots at 1918EDT
+32054,Wind,7367,30/11/2015 8:25,MOORABBIN AIRPORT,VIC,-37.9772,145.0986,Laverton gust recorded of 49knots at 1925EDT
+32055,Hail,4073,8/12/2015 3:20,SHEPPARTON,VIC,-36.3846,145.4045,Switchboard phoned RFC to advise of numerous calls of 'golf-ball sized hail' in the Shepparton area.
+32056,Rain,5209,8/12/2015 6:00,CARBOOR UPPER,VIC,-36.6418,146.5453,"65mm in 1 hour, 63mm in 30 mins and 49.8mm in 15 mins."
+32056,Rain,5211,8/12/2015 6:15,OVENS,VIC,-36.5906,146.7597,Landslip reported at Ovens where a house was 'washed away'. Media also reports that one lane of the Great Alpine Road was closed due to landslip.
+32056,Rain,5210,8/12/2015 6:26,EUROBIN,VIC,-36.6404,146.8624,"42.4mm in 1 hour which corresponds to between a 2 and 5% AEP, however 41.6mm of this fell within 30 mins and 34.6mm in 15 mins which are less than a 1% AEP."
+32057,Hail,4074,31/10/2015 4:00,DUNOLLY,VIC,-36.8596,143.7325,"Time estimated from RADAR. Numerous reports of golf-ball hail at Dunolly in local media forwarded on by storm-spotter. Reports of damage to cars, pergolas, skylights, etc."
+32058,Wind,7369,18/12/2015 6:22,HOPETOUN,VIC,-35.7303,142.3623,Gust associated with convection on RADAR but no lightning observed with the cell in question.
+32059,Wind,7370,19/12/2015 4:47,MOUNT GELLIBRAND,VIC,-38.2342,143.7912,Gust associated with area of convection on RADAR.
+32060,Wind,7371,20/12/2015 3:30,WANGARATTA,VIC,-36.3565,146.3154,Gust associated with area of convection on RADAR.
+32061,Hail,4111,3/01/2016 3:00,BENDIGO,VIC,-36.7756,144.2593,Social media report (Twitter) showing hail that appears around 2cm in size 'near Bendigo'.
+32062,Rain,5385,3/01/2016 6:13,WHITEHEADS CREEK,VIC,-37.0329,145.2326,Whiteheads Ck recorded rainfall just on the 60 minute 10% AEP rainfall amount.
+32062,Rain,5386,3/01/2016 8:00,AVENEL,VIC,-36.9068,145.2377,Channel 7 advised multiple reports of flash-flooding at Avenel.
+32063,Rain,5387,4/01/2016 3:30,BLUE MOUNTAIN,VIC,-37.4325,144.2965,27.6mm in 60 minutes at Blue Mountain which is just shy of the 10% AEP rainfall amount.
+32064,Wind,7440,4/01/2016 6:10,RED CLIFFS,VIC,-34.2976,142.1855,2 reports of building damage at Red Cliffs
+32065,Wind,7441,11/01/2016 5:44,COLDSTREAM,VIC,-37.7262,145.3739,Wind gust at Coldstream associated with shower activity moving through eastern suburbs.
+32066,Wind,7442,13/01/2016 6:29,AVALON,VIC,-38.0861,144.4288,A change moving across Melbourne was enhanced by outflow from convection resulting in strong gusts as it moved across the metropolitan area.
+32066,Wind,7443,13/01/2016 6:56,SAINT KILDA,VIC,-37.8653,144.981,A change moving across Melbourne was enhanced by outflow from convection resulting in strong gusts as it moved across the metropolitan area.
+32067,Wind,7444,13/01/2016 7:07,OMEO,VIC,-37.1014,147.5908,
+32068,Wind,7445,13/01/2016 7:07,HOPETOUN,VIC,-35.7303,142.3623,
+32069,Wind,7446,21/01/2016 18:01,HORSHAM,VIC,-36.7146,142.1981,Early convection moving across the SW of Victoria.
+32070,Hail,4112,22/01/2016 6:00,HOPETOUN,VIC,-35.7303,142.3623,Report on Twitter of 50c size hail NW of Hopetoun.
+32071,Wind,7447,27/01/2016 5:05,SWAN HILL,VIC,-35.342,143.5616,Wind gust at Swan Hill with storm moving to the SE as all other storms in the area move NE.
+32072,Rain,5388,27/01/2016 4:00,GEELONG,VIC,-38.1502,144.3558,Very heavy rainfall at Geelong Racecourse. 24mm in 20 minutes up to 3:22pm. Around a 2% AEP.
+32072,Rain,5389,27/01/2016 4:50,AVALON AERODROME,VIC,-38.0346,144.4671,Very heavy rainfall at Avalon. 26.4mm in 10 minutes up to 4:32pm and 53.8mm over 30 minutes which is <1% AEP.
+32073,Rain,5390,28/01/2016 2:30,SANDRINGHAM,VIC,-37.9513,145.0048,Media reports of flash-flooding in Brighton and Sandringham.
+32074,Rain,5391,28/01/2016 4:00,NOOJEE,VIC,-37.8954,145.9957,Supercellular-looking storm developed over the eastern suburbs then moved east and became part of a squall line. 26.6mm in 5 minutes reported at Noojee as the line moved through.
+32075,Rain,5416,31/03/2016 3:50,WALKERVILLE,VIC,-38.8251,145.954,Heavy rainfall and 1cm hail at Walkerville.
+32076,Wind,7469,4/03/2016 6:10,BROADFORD,VIC,-37.204,145.0494,Report of tree down and building damage at Broadford as a storm moved through.
+32077,Rain,5417,11/03/2016 20:55,TARRAWINGEE,VIC,-36.3752,146.4972,Spotter reported 24.5mm of rain measured in 20 minutes with a storm moving through the area. Gutters/downpipes overflowing.
+32078,Wind,7470,17/03/2016 19:51,FAWKNER BEACON,VIC,-37.9106,144.9268,Damaging gust at Fawkner Beacon which matches up with the timing of a line of convection moving across the Bay.
+32079,Tornado,1302,22/08/2016 1:55,MELTON,VIC,-37.7043,144.5713,Report of funnel cloud observed approximately 15km NW of Caroline Springs.
+32079,Tornado,1303,22/08/2016 2:05,TRUGANINA,VIC,-37.7841,144.715,Report of funnel cloud observed at Truganina.
+32080,Tornado,1304,22/08/2016 3:10,BENALLA,VIC,-36.546,145.9833,Report of funnel cloud observed at Benalla.
+32081,Wind,7693,11/11/2016 20:51,MILDURA AIRPORT,VIC,-34.2316,142.0815,Heavy rainfall and damaging wind gusts with thunderstorms over Mallee. 96km/h wind gust recorded at Mildura airport.
+32081,Rain,5702,11/11/2016 21:00,MILDURA AIRPORT,VIC,-34.2316,142.0815,Heavy rainfall and damaging wind gusts with thunderstorms over Mallee. 29.6mm in 15minutes recorded at Mildura airport.
+32082,Hail,4279,16/10/2016 17:30,TARRAWINGEE,VIC,-36.3752,146.4972,Spotter report of 4.2cm size hail (ave size 1-3cm).%D 9mm rainfall recorded.
+32083,Wind,7695,21/11/2016 14:26,HOPETOUN AERODROME,VIC,-35.715,142.3587,51kt gust at Hopetoun associated with large thunderstorm outbreak through western and central Victoria.
+32083,Wind,7694,21/11/2016 14:34,HORSHAM,VIC,-36.7146,142.1981,56kt gust at Horsham associated with large thunderstorm outbreak through western and central Victoria.
+32083,Wind,7696,21/11/2016 16:16,MOUNT GELLIBRAND,VIC,-38.2342,143.7912,65kt gust at Mt Gellibrand associated with large thunderstorm outbreak through western and central Victoria.
+32083,Wind,7697,21/11/2016 16:31,BALLARAT AIRFIELD,VIC,-37.5106,143.7923,49kt at Ballarat associated with large thunderstorm outbreak through western and central Victoria.
+32083,Wind,7698,21/11/2016 17:01,SHEOAKS,VIC,-37.8981,144.1318,53kt at Sheoaks associated with large thunderstorm outbreak through western and central Victoria.
+32083,Wind,7699,21/11/2016 17:30,AVALON AERODROME,VIC,-38.0346,144.4671,49kt at Avalon associated with large thunderstorm outbreak through western and central Victoria.
+32084,Rain,5703,29/12/2016 0:00,CLARKEFIELD,VIC,-37.5164,144.8168,"84mm recorded at Clarkefield (40mm in 15mins).%D other high totals: 79mm at Viewbank, 77mm at Warrenbayne, 66mm at Cheshunt, 53mm at Warragul."
+32084,Rain,5704,29/12/2016 0:00,FERNY CREEK,VIC,-37.8727,145.3446,"72.4mm in ~30mins at Ferny creek.%D 20mm in 5 mins, 31mm in 11mins."
+32084,Wind,7700,29/12/2016 17:45,TULLAMARINE,VIC,-37.7095,144.887,96km/h gust at Tullamarine south associated with thunderstorms.
+32085,Hail,4280,30/12/2016 0:00,ORBOST,VIC,-37.7186,148.4501,"SCC advised hail 2-3mm in Orbost, also video showing hail in a backyard of ~5cm in diameter."
+32087,Wind,7753,9/10/2016 13:40,DERRIMUT,VIC,-37.78,144.7493,
+32088,Wind,7754,30/10/2016 0:00,MOUNT HOTHAM,VIC,-36.9766,147.1315,
+32088,Wind,7755,30/10/2016 0:00,MOUNT GELLIBRAND,VIC,-38.2342,143.7912,
+32088,Wind,7756,30/10/2016 0:00,SOUTH CHANNEL ISLAND,VIC,-38.3081,144.7994,
+32088,Wind,7757,30/10/2016 0:00,NHILL AERODROME,VIC,-36.3109,141.6463,
+32090,Wind,7759,8/04/2017 15:33,WARRACKNABEAL,VIC,-36.2528,142.3947,
+32090,Wind,7758,8/04/2017 15:50,HAMILTON,VIC,-37.7457,142.0204,
+32090,Tornado,1314,8/04/2017 16:30,PAKENHAM,VIC,-38.08,145.4801,"Rotation evident in clouds, no tornado."
