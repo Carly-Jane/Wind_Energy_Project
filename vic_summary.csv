@@ -1,89 +1,29 @@
-ID,Name,Source/Technology,RegisteredCapacity (MW)
-New South Wales (NSW1),New South Wales (NSW1),New South Wales (NSW1),New South Wales (NSW1)
-BANGOWF1,Bango 973 Wind Farm,"Wind, Wind - Onshore",159
-BANGOWF2,Bango 999 Wind Farm,"Wind, Wind - Onshore",85
-BOCORWF1,Boco Rock Wind Farm,"Wind, Wind - Onshore",113
-BODWF1,Bodangora Wind Farm,"Wind, Wind - Onshore",113
-CAPTL_WF,Capital Wind Farm,"Wind, Wind - Onshore",140
-COLWF01,Collector Wind Farm 1,"Wind, Wind - Onshore",226
-CROOKWF2,Crookwell 2 Wind Farm,"Wind, Wind - Onshore",96
-CRURWF1,Crudine Ridge Wind Farm,"Wind, Wind - Onshore",141
-CULLRGWF,Cullerin Range Wind Farm,"Wind, Wind - Onshore",30
-GULLRWF1,Gullen Range Wind Farm,"Wind, Wind - Onshore",276
-GULLRWF2,Gullen Range Wind Farm,"Wind, Wind - Onshore",0
-GUNNING1,Gunning Wind Farm,"Wind, Wind - Onshore",46
-SAPHWF1,Sapphire Wind Farm,"Wind, Wind - Onshore",270
-STWF1,Silverton Wind Farm,"Wind, Wind - Onshore",199
-TARALGA1,Taralga Wind Farm,"Wind, Wind - Onshore",107
-WOODLWN1,Woodlawn Wind Farm,"Wind, Wind - Onshore",48
-WRWF1,White Rock Wind Farm,"Wind, Wind - Onshore",175
-,,,2224
-Queensland (QLD1),Queensland (QLD1),Queensland (QLD1),Queensland (QLD1)
-COOPGWF1,Coopers Gap Wind Farm,"Wind, Wind - Onshore",452
-KEPWF1,Kennedy Energy Park Wind Units 1-12,"Wind, Wind - Onshore",43
-MEWF1,Mount Emerald Wind Farm,"Wind, Wind - Onshore",180
-,,,675
-South Australia (SA1),South Australia (SA1),South Australia (SA1),South Australia (SA1)
-BLUFF1,The Bluff Wind Farm,"Wind, Wind - Onshore",52
-CATHROCK,Cathedral Rocks,"Wind, Wind - Onshore",66
-CLEMGPWF,Clements Gap Wind Farm,"Wind, Wind - Onshore",57
-CNUNDAWF,Canunda Wind Farm,"Wind, Wind - Onshore",46
-HALLWF1,Hallett 1 Wind Farm,"Wind, Wind - Onshore",94
-HALLWF2,Hallett 2 Wind Farm,"Wind, Wind - Onshore",71
-HDWF1,Hornsdale Wind Farm,"Wind, Wind - Onshore",102
-HDWF2,Hornsdale Wind Farm 2,"Wind, Wind - Onshore",102
-HDWF3,Hornsdale Wind Farm 3,"Wind, Wind - Onshore",112
-LGAPWF1,Lincoln Gap Wind Farm,"Wind, Wind - Onshore",126
-LGAPWF2,Lincoln Gap Wind Farm,"Wind, Wind - Onshore",86
-LKBONNY1,Lake Bonney Wind Farm Stage 1,"Wind, Wind - Onshore",80
-LKBONNY2,Lake Bonney Stage 2 Windfarm,"Wind, Wind - Onshore",159
-LKBONNY3,Lake Bonney Stage 3 Wind Farm,"Wind, Wind - Onshore",39
-MTMILLAR,Mt Millar Wind Farm,"Wind, Wind - Onshore",70
-NBHWF1,North Brown Hill Wind Farm,"Wind, Wind - Onshore",132
-PAREPW1,Port Augusta Renewable Energy Park,"Wind, Wind - Onshore",210
-SNOWNTH1,Snowtown Wind Farm Stage 2 North,"Wind, Wind - Onshore",144
-SNOWSTH1,Snowtown South Wind Farm,"Wind, Wind - Onshore",126
-SNOWTWN1,Snowtown Wind Farm Units 1 And 47,"Wind, Wind - Onshore",99
-STARHLWF,Starfish Hill Wind Farm,"Wind, Wind - Onshore",34
-WATERLWF,Waterloo Wind Farm,"Wind, Wind - Onshore",131
-WGWF1,Willogoleche Wind Farm,"Wind, Wind - Onshore",119
-WPWF,Wattle Point Wind Farm,"Wind, Wind - Onshore",91
-,,,2351
-Tasmania (TAS1),Tasmania (TAS1),Tasmania (TAS1),Tasmania (TAS1)
-CTHLWF1,Cattle Hill Wind Farm,"Wind, Wind - Onshore",148
-GRANWF1,Granville Harbour Wind Farm,"Wind, Wind - Onshore",110
-MUSSELR1,Musselroe Wind Farm,"Wind, Wind - Onshore",168
-WOOLNTH1,Woolnorth Studland Bay / Bluff Point Wind Farm,"Wind, Wind - Onshore",140
-,,,566
-Victoria (VIC1),Victoria (VIC1),Victoria (VIC1),Victoria (VIC1)
-ARWF1,Ararat Wind Farm,"Wind, Wind - Onshore",242
-BALDHWF1,Bald Hills Wind Farm,"Wind, Wind - Onshore",107
-BRYB1WF1,Berrybank Wind Farm,"Wind, Wind - Onshore",181
-BULGANA1,Bulgana Green Power Hub - Wind Units 1-56,"Wind, Wind - Onshore",204
-CHALLHWF,Challicum Hills Wind Farm,"Wind, Wind - Onshore",52
-CHYTWF1,Cherry Tree Wind Farm,"Wind, Wind - Onshore",58
-CROWLWF1,Crowlands Wind Farm,"Wind, Wind - Onshore",80
-DIAPURWF1,"Diapur Wind Farm, Units 1-2","Wind, Wind - Onshore",8
-DUNDWF1,Dundonnell Wind Farm,"Wind, Wind - Onshore",168
-DUNDWF2,Dundonnell Wind Farm,"Wind, Wind - Onshore",46
-DUNDWF3,Dundonnell Wind Farm,"Wind, Wind - Onshore",121
-ELAINWF1,Elaine Wind Farm,"Wind, Wind - Onshore",84
-KIATAWF1,Kiata Wind Farm,"Wind, Wind - Onshore",31
-MACARTH1,Macarthur Wind Farm,"Wind, Wind - Onshore",420
-MERCER01,Mt Mercer Wind Farm,"Wind, Wind - Onshore",131
-MLWF1,Mortons Lane Wind Farm,"Wind, Wind - Onshore",20
-MOORAWF1,Moorabool Wind Farm,"Wind, Wind - Onshore",312
-MTGELWF1,Mt Gellibrand Wind Farm,"Wind, Wind - Onshore",138
-MUWAWF1,Murra Warra Wind Farm,"Wind, Wind - Onshore",232
-MUWAWF2,Murra Warra Wind Farm Stage 2,"Wind, Wind - Onshore",209
-OAKLAND1,Oaklands Hill Wind Farm,"Wind, Wind - Onshore",67
-PORTWF,Portland Wind Farm,"Wind, Wind - Onshore",148
-SALTCRK1,Salt Creek Wind Farm,"Wind, Wind - Onshore",54
-STOCKYD1,Stockyard Hill Wind Farm,"Wind, Wind - Onshore",531
-WAUBRAWF,Waubra Wind Farm,"Wind, Wind - Onshore",192
-YAMBUKWF,Yambuk Wind Farm,"Wind, Wind - Onshore",30
-YENDWF1,Yendon Wind Farm,"Wind, Wind - Onshore",144
-YSWF1,Yaloak South Wind Farm,"Wind, Wind - Onshore",29
-,,,4037
-Total registered,Total registered,Total registered,Total registered
-,,,9854
+ID,Name,State,Source/Technology,RegisteredCapacity_(MW)
+ARWF1,Ararat Wind Farm,VIC,"Wind, Wind - Onshore",242
+BALDHWF1,Bald Hills Wind Farm,VIC,"Wind, Wind - Onshore",107
+BRYB1WF1,Berrybank Wind Farm,VIC,"Wind, Wind - Onshore",181
+BULGANA1,Bulgana Green Power Hub - Wind Units 1-56,VIC,"Wind, Wind - Onshore",204
+CHALLHWF,Challicum Hills Wind Farm,VIC,"Wind, Wind - Onshore",52
+CHYTWF1,Cherry Tree Wind Farm,VIC,"Wind, Wind - Onshore",58
+CROWLWF1,Crowlands Wind Farm,VIC,"Wind, Wind - Onshore",80
+DIAPURWF1,"Diapur Wind Farm, Units 1-2",VIC,"Wind, Wind - Onshore",8
+DUNDWF1,Dundonnell Wind Farm,VIC,"Wind, Wind - Onshore",168
+DUNDWF2,Dundonnell Wind Farm,VIC,"Wind, Wind - Onshore",46
+DUNDWF3,Dundonnell Wind Farm,VIC,"Wind, Wind - Onshore",121
+ELAINWF1,Elaine Wind Farm,VIC,"Wind, Wind - Onshore",84
+KIATAWF1,Kiata Wind Farm,VIC,"Wind, Wind - Onshore",31
+MACARTH1,Macarthur Wind Farm,VIC,"Wind, Wind - Onshore",420
+MERCER01,Mt Mercer Wind Farm,VIC,"Wind, Wind - Onshore",131
+MLWF1,Mortons Lane Wind Farm,VIC,"Wind, Wind - Onshore",20
+MOORAWF1,Moorabool Wind Farm,VIC,"Wind, Wind - Onshore",312
+MTGELWF1,Mt Gellibrand Wind Farm,VIC,"Wind, Wind - Onshore",138
+MUWAWF1,Murra Warra Wind Farm,VIC,"Wind, Wind - Onshore",232
+MUWAWF2,Murra Warra Wind Farm Stage 2,VIC,"Wind, Wind - Onshore",209
+OAKLAND1,Oaklands Hill Wind Farm,VIC,"Wind, Wind - Onshore",67
+PORTWF,Portland Wind Farm,VIC,"Wind, Wind - Onshore",148
+SALTCRK1,Salt Creek Wind Farm,VIC,"Wind, Wind - Onshore",54
+STOCKYD1,Stockyard Hill Wind Farm,VIC,"Wind, Wind - Onshore",531
+WAUBRAWF,Waubra Wind Farm,VIC,"Wind, Wind - Onshore",192
+YAMBUKWF,Yambuk Wind Farm,VIC,"Wind, Wind - Onshore",30
+YENDWF1,Yendon Wind Farm,VIC,"Wind, Wind - Onshore",144
+YSWF1,Yaloak South Wind Farm,VIC,"Wind, Wind - Onshore",29
