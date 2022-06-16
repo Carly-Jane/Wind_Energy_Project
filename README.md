@@ -23,14 +23,24 @@ Once the report has been complete, you will need to upload the report to Github 
 
 Extract
 
-Source Of Data:
+Sources Of Data:
+
+
+
 * Data alias: Storm-Data
-http://www.bom.gov.au/australia/stormarchive/ (date range 1/1/2010 to 1/1/2021)
+http://www.bom.gov.au/australia/stormarchive/ 
+
+(date range 1/1/2010 to 1/1/2021)
+
 Includes all storm data on all states and teritories.
+
 Formatted as a CSV file.
+
 For additional clarity, please note; this file contains a column named 'Event_ID' and another column named 'ID'. The 'Event_ID' indicates a weather event, such as a large storm(for example, Event_ID 103 could indicate a storm in Melbourne that lasted 3 hours), and the 'ID' indicates multiple reports of weather in each weather event (such as a broken window from storm 103, hail sightings from storm 103 and a fallen tree from storm 103). 
 
 ![BOM.PNG](BOM.PNG)
+
+
 
 * Data alias: Outages-Data
 http://nemweb.com.au/Reports/Current/HighImpactOutages/ 
@@ -38,27 +48,37 @@ http://nemweb.com.au/Reports/Current/HighImpactOutages/
 (date range 30/8/2021 to 6/6/2022)
 Includes all High Impact Outage data on existing wind farms in all states and teritories.
 
-
 Formatted as a CSV file.
 
-
 All individual CSVs have now been combined into just one to lead it into the database.
-
 
 For additional clarity, please note; NSP stands for Network Service Provider
 
 ![HIO.PNG](HIO.PNG)
 
+
+
 * Data alias: Wind-Generators-Data
-https://anero.id/energy/wind-energy  (data accurate as of 13/6/2022)
+https://anero.id/energy/wind-energy  
+
+(data accurate as of 13/6/2022)
+
 Includes summary of Redistered Wind Generators in QLD, VIC, NSW, SA & TAS.
+
 Formatted as a HTML table on a website.
 
 ![VIC.PNG](VIC.PNG)
 
+
+
 * Data alias: Australian-States-Data
-https://www.abc.net.au/education/learn-english/commonly-used-abbreviations-and-acronyms-in-australia/10733416  (data accurate as of 16/6/2022)
-Includes all Australian states and teritories and their acronyms
+
+https://www.abc.net.au/education/learn-english/commonly-used-abbreviations-and-acronyms-in-australia/10733416  
+
+(data accurate as of 16/6/2022)
+
+Includes all Australian states and teritories and their acronyms.
+
 Formatted as a HTML table on a website.
 
 ![STATES.PNG](STATES.PNG)
@@ -91,11 +111,14 @@ Australian-States-Data
 
 Load
 
-Schema
 
+Schema
 ![RelationalDatabaseSchema.PNG](RelationalDatabaseSchema.PNG)
 
 Chosen database is a Relational database, specificly PostgresSQL (pgAdmin 4).
+
 Schema file: Wind_Energy_Database.sql
+
 CSV's to load into SQL database: vic_summary.csv, states.csv, BOM_Storm_Data.csv & High_Impact_Outages_Full_data.csv
+
 A relational database has been chosen to ensure the data is always meeting quality standards, to allow for ease of joing data for the analysis team, and beacause it suits the structured data format that the data comes in.
