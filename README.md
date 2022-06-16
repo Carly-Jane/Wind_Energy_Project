@@ -29,6 +29,7 @@ http://www.bom.gov.au/australia/stormarchive/ (date range 1/1/2010 to 1/1/2021)
 Includes all storm data on all states and teritories.
 Formatted as a CSV file.
 For additional clarity, please note; this file contains a column named 'Event_ID' and another column named 'ID'. The 'Event_ID' indicates a weather event, such as a large storm(for example, Event_ID 103 could indicate a storm in Melbourne that lasted 3 hours), and the 'ID' indicates multiple reports of weather in each weather event (such as a broken window from storm 103, hail sightings from storm 103 and a fallen tree from storm 103). 
+
 ![BOM.PNG](BOM.PNG)
 
 * Data alias: Outages-Data
@@ -37,18 +38,21 @@ Includes all High Impact Outage data on existing wind farms in all states and te
 Formatted as a CSV file.
 All individual CSVs have now been combined into just one to lead it into the database
 For additional clarity, please note; NSP stands for Network Service Provider
+
 ![HIO.PNG](HIO.PNG)
 
 * Data alias: Wind-Generators-Data
 https://anero.id/energy/wind-energy  (data accurate as of 13/6/2022)
 Includes summary of Redistered Wind Generators in QLD, VIC, NSW, SA & TAS.
 Formatted as a HTML table on a website.
+
 ![VIC.PNG](VIC.PNG)
 
 * Data alias: Australian-States-Data
 https://www.abc.net.au/education/learn-english/commonly-used-abbreviations-and-acronyms-in-australia/10733416  (data accurate as of 16/6/2022)
 Includes all Australian states and teritories and their acronyms
 Formatted as a HTML table on a website.
+
 ![STATES.PNG](STATES.PNG)
 
 
@@ -80,6 +84,7 @@ Australian-States-Data
 Load
 
 Schema
+
 ![RelationalDatabaseSchema.PNG](RelationalDatabaseSchema.PNG)
 
 Chosen database is a Relational database, specificly PostgresSQL (pgAdmin 4).
