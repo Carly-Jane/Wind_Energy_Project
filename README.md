@@ -33,10 +33,18 @@ For additional clarity, please note; this file contains a column named 'Event_ID
 ![BOM.PNG](BOM.PNG)
 
 * Data alias: Outages-Data
-http://nemweb.com.au/Reports/Current/HighImpactOutages/ (date range 30/8/2021 to 6/6/2022)
+http://nemweb.com.au/Reports/Current/HighImpactOutages/ 
+
+(date range 30/8/2021 to 6/6/2022)
 Includes all High Impact Outage data on existing wind farms in all states and teritories.
+
+
 Formatted as a CSV file.
-All individual CSVs have now been combined into just one to lead it into the database
+
+
+All individual CSVs have now been combined into just one to lead it into the database.
+
+
 For additional clarity, please note; NSP stands for Network Service Provider
 
 ![HIO.PNG](HIO.PNG)
