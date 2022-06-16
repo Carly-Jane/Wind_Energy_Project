@@ -19,7 +19,7 @@ You have been asked to create the dataset, and provide a comprehensive report of
 
 Once the report has been complete, you will need to upload the report to Github and submit a link to Bootcampspot.
 
-### Wind Energy Project Final Report
+# Wind Energy Project Final Report
 
 # Extract
 
